@@ -1,0 +1,1001 @@
+rows,columns,type,purpose,skill,real_time,budget,cloud,integration,data_complexity,update_frequency,user_type,tool
+466490,135,semi,reporting,beginner,no,low,no,no,low,weekly,student,Excel
+515641,143,structured,analytics,intermediate,yes,medium,yes,no,medium,weekly,business,Tableau
+646517,184,unstructured,ml,intermediate,no,low,no,yes,high,weekly,business,Python
+199439,52,structured,dashboard,beginner,no,low,no,yes,high,static,analyst,Tableau
+787580,115,structured,dashboard,beginner,no,high,yes,no,medium,real-time,student,Tableau
+379894,172,semi,ml,advanced,no,low,yes,no,low,weekly,business,Tableau
+561074,174,structured,analytics,beginner,no,low,yes,no,high,weekly,student,Tableau
+195079,164,unstructured,ml,intermediate,no,high,yes,yes,low,weekly,analyst,Tableau
+553195,20,semi,reporting,advanced,yes,low,yes,no,medium,static,student,Tableau
+785510,43,semi,analytics,advanced,no,high,yes,yes,medium,real-time,student,Tableau
+389786,44,structured,analytics,intermediate,no,high,no,no,medium,real-time,student,Tableau
+138599,198,unstructured,analytics,advanced,yes,low,no,yes,low,weekly,student,Tableau
+175234,104,semi,reporting,beginner,no,low,no,no,low,static,student,Excel
+485872,29,unstructured,reporting,intermediate,yes,medium,no,yes,high,static,student,Tableau
+998528,92,unstructured,ml,beginner,yes,medium,yes,no,low,static,analyst,Python
+847026,186,unstructured,ml,advanced,no,low,no,yes,low,weekly,student,Python
+601141,140,semi,dashboard,beginner,no,low,no,yes,low,weekly,business,Tableau
+871284,24,semi,dashboard,advanced,no,medium,yes,yes,low,weekly,analyst,Tableau
+13527,41,structured,ml,beginner,no,low,yes,no,high,static,analyst,Python
+926052,94,semi,ml,beginner,no,high,yes,no,high,static,business,Tableau
+884663,97,semi,reporting,advanced,yes,medium,no,no,medium,weekly,student,Tableau
+421135,153,unstructured,reporting,beginner,no,high,no,no,medium,real-time,analyst,Tableau
+857528,194,unstructured,ml,intermediate,yes,high,yes,no,high,real-time,business,Tableau
+326942,31,unstructured,analytics,advanced,yes,medium,no,no,medium,real-time,business,Tableau
+810358,47,semi,reporting,intermediate,yes,medium,no,no,low,weekly,business,Power BI
+804194,195,structured,ml,intermediate,no,medium,yes,yes,medium,real-time,analyst,Tableau
+804633,160,semi,ml,beginner,no,medium,no,yes,medium,static,student,Tableau
+767955,153,structured,dashboard,intermediate,no,high,yes,no,high,weekly,analyst,Tableau
+567072,152,unstructured,ml,intermediate,no,medium,no,no,medium,weekly,analyst,Python
+367236,115,structured,analytics,beginner,no,high,yes,yes,high,real-time,business,Tableau
+215463,13,structured,reporting,intermediate,yes,low,yes,yes,medium,weekly,analyst,Tableau
+675191,130,semi,ml,advanced,yes,medium,yes,yes,low,real-time,student,Tableau
+646645,51,structured,analytics,advanced,yes,high,no,no,low,static,student,Tableau
+707795,9,structured,ml,beginner,yes,high,yes,yes,medium,static,business,Tableau
+362977,177,semi,reporting,beginner,no,medium,no,no,medium,weekly,student,Tableau
+116093,118,structured,reporting,beginner,yes,low,no,yes,medium,weekly,student,Tableau
+32444,112,semi,dashboard,intermediate,no,high,no,no,high,static,analyst,Tableau
+314085,13,unstructured,analytics,intermediate,yes,high,yes,no,low,weekly,analyst,Tableau
+640773,199,structured,dashboard,beginner,yes,medium,no,no,low,weekly,student,Tableau
+795816,61,semi,reporting,intermediate,no,medium,no,yes,high,real-time,business,Power BI
+720862,76,structured,analytics,advanced,no,low,yes,yes,low,weekly,student,Tableau
+795243,46,unstructured,analytics,advanced,no,high,no,no,medium,weekly,analyst,Tableau
+211836,198,structured,ml,beginner,yes,medium,yes,yes,low,static,analyst,Tableau
+79143,61,unstructured,ml,beginner,no,low,no,no,medium,real-time,analyst,Python
+951112,180,semi,ml,intermediate,no,low,no,yes,low,real-time,student,Tableau
+288396,148,unstructured,reporting,intermediate,no,low,yes,yes,high,static,analyst,Tableau
+327547,109,structured,reporting,beginner,no,medium,yes,no,medium,real-time,business,Tableau
+566819,187,semi,analytics,advanced,yes,high,no,no,low,weekly,analyst,Tableau
+247583,30,semi,reporting,advanced,yes,medium,no,no,high,weekly,analyst,Tableau
+164283,144,unstructured,dashboard,advanced,yes,low,yes,no,low,static,business,Tableau
+316569,25,semi,dashboard,advanced,no,high,yes,yes,medium,static,student,Tableau
+174600,169,structured,analytics,intermediate,yes,low,yes,no,medium,static,business,Tableau
+667711,107,semi,ml,intermediate,no,high,yes,yes,medium,static,business,Tableau
+304507,118,structured,reporting,intermediate,no,high,yes,yes,high,weekly,student,Tableau
+165747,31,structured,ml,advanced,no,high,yes,no,high,static,student,Tableau
+896563,56,structured,ml,intermediate,yes,low,yes,no,high,real-time,business,Power BI
+998524,41,unstructured,ml,advanced,yes,high,no,yes,medium,weekly,student,Tableau
+486345,87,unstructured,dashboard,advanced,yes,low,yes,no,low,real-time,analyst,Tableau
+752429,126,structured,analytics,beginner,no,high,no,yes,medium,weekly,business,Tableau
+221329,33,semi,dashboard,beginner,yes,low,yes,no,medium,weekly,student,Tableau
+497625,29,unstructured,analytics,advanced,no,medium,yes,no,high,real-time,analyst,Tableau
+997516,190,unstructured,dashboard,intermediate,yes,high,no,yes,low,real-time,analyst,Tableau
+668468,38,structured,reporting,advanced,yes,low,no,yes,medium,real-time,student,Power BI
+749201,43,unstructured,dashboard,intermediate,yes,low,yes,yes,high,weekly,student,Tableau
+777944,41,structured,reporting,advanced,yes,low,yes,no,low,static,analyst,Tableau
+151728,183,structured,reporting,intermediate,yes,high,no,no,low,weekly,business,Tableau
+896270,148,semi,dashboard,intermediate,no,medium,no,yes,high,weekly,student,Tableau
+811722,153,unstructured,dashboard,advanced,no,low,yes,no,medium,weekly,business,Tableau
+130444,161,structured,ml,intermediate,no,high,no,no,high,static,analyst,Tableau
+655140,198,semi,reporting,intermediate,yes,medium,no,yes,low,weekly,student,Tableau
+597793,14,semi,reporting,beginner,no,high,no,no,medium,static,analyst,Tableau
+301779,192,semi,reporting,intermediate,no,high,yes,no,high,real-time,business,Tableau
+468679,54,semi,ml,beginner,no,low,yes,no,medium,weekly,business,Tableau
+637851,75,semi,reporting,intermediate,yes,low,yes,no,high,real-time,analyst,Tableau
+883415,10,structured,analytics,beginner,no,high,no,no,medium,weekly,student,Tableau
+321665,167,structured,dashboard,advanced,no,high,no,no,medium,real-time,student,Tableau
+684514,134,unstructured,analytics,advanced,no,medium,no,yes,medium,weekly,analyst,Tableau
+140052,197,unstructured,analytics,beginner,yes,high,yes,no,medium,static,business,Tableau
+737231,173,semi,analytics,advanced,no,high,yes,yes,medium,static,student,Tableau
+547921,32,unstructured,ml,beginner,no,medium,yes,no,high,weekly,student,Python
+815684,196,structured,dashboard,beginner,yes,low,yes,no,low,real-time,analyst,Tableau
+432486,51,structured,ml,advanced,no,high,yes,no,medium,static,analyst,Tableau
+471153,45,unstructured,ml,advanced,yes,low,no,yes,low,weekly,business,Python
+69047,183,semi,reporting,beginner,yes,medium,no,no,low,real-time,business,Power BI
+869360,74,unstructured,reporting,intermediate,no,high,no,no,low,weekly,analyst,Tableau
+322199,66,structured,ml,advanced,no,low,no,yes,medium,weekly,analyst,Python
+415993,193,structured,ml,beginner,no,high,no,yes,medium,real-time,business,Tableau
+381718,119,semi,ml,advanced,no,medium,yes,no,high,static,business,Tableau
+131535,66,structured,reporting,beginner,no,low,yes,no,low,static,analyst,Excel
+832065,149,semi,analytics,intermediate,no,high,no,no,medium,real-time,business,Tableau
+619401,123,structured,dashboard,intermediate,no,low,no,no,high,weekly,student,Tableau
+922819,63,semi,dashboard,intermediate,yes,high,no,no,low,real-time,student,Power BI
+2279,197,structured,analytics,advanced,no,low,no,no,medium,static,analyst,Tableau
+196414,74,structured,dashboard,advanced,yes,high,yes,yes,medium,real-time,student,Tableau
+146994,192,unstructured,ml,advanced,no,medium,yes,yes,high,weekly,business,Tableau
+25659,52,semi,reporting,beginner,no,medium,yes,no,high,real-time,student,Power BI
+938812,26,structured,ml,advanced,no,low,yes,yes,high,real-time,student,Python
+697595,176,semi,reporting,beginner,no,medium,no,yes,medium,weekly,student,Tableau
+875796,171,semi,analytics,advanced,yes,medium,no,no,low,real-time,business,Tableau
+523204,183,unstructured,analytics,beginner,yes,high,no,no,medium,weekly,student,Tableau
+841478,65,unstructured,analytics,intermediate,no,high,yes,no,high,static,business,Tableau
+338512,177,semi,ml,beginner,no,high,yes,no,low,static,student,Tableau
+35932,38,semi,analytics,advanced,yes,high,no,yes,medium,static,student,Tableau
+82101,177,unstructured,ml,advanced,no,low,yes,yes,medium,real-time,student,Python
+930505,119,semi,reporting,beginner,yes,low,no,yes,low,real-time,business,Power BI
+728769,116,structured,dashboard,intermediate,no,high,no,no,medium,weekly,analyst,Tableau
+880008,46,semi,analytics,beginner,no,high,no,no,medium,weekly,business,Tableau
+297401,102,structured,ml,beginner,no,medium,yes,yes,high,real-time,student,Tableau
+829225,193,unstructured,ml,intermediate,no,high,no,yes,medium,weekly,analyst,Tableau
+196079,116,unstructured,ml,advanced,no,high,no,no,low,static,analyst,Python
+144607,173,semi,ml,advanced,no,high,no,yes,high,static,analyst,Tableau
+34607,32,unstructured,analytics,advanced,yes,medium,no,yes,low,real-time,business,Power BI
+327029,112,unstructured,analytics,beginner,no,medium,yes,yes,low,static,student,Tableau
+104359,159,structured,ml,intermediate,yes,high,no,no,high,real-time,student,Tableau
+313352,198,semi,reporting,intermediate,yes,medium,no,yes,high,weekly,analyst,Tableau
+613301,129,unstructured,dashboard,intermediate,no,high,yes,no,medium,real-time,analyst,Tableau
+230793,31,structured,reporting,beginner,no,medium,no,no,medium,real-time,student,Excel
+292070,158,structured,ml,advanced,yes,medium,no,no,high,static,student,Tableau
+730627,115,unstructured,reporting,beginner,yes,high,no,yes,medium,static,analyst,Tableau
+372303,187,structured,dashboard,beginner,no,low,no,yes,high,weekly,business,Tableau
+76045,161,structured,analytics,beginner,no,low,no,yes,low,real-time,business,Power BI
+173692,106,structured,ml,advanced,no,high,no,yes,medium,weekly,student,Tableau
+333363,71,unstructured,ml,intermediate,yes,low,yes,no,high,static,business,Python
+983902,101,unstructured,ml,intermediate,no,high,yes,no,medium,real-time,business,Tableau
+287593,114,semi,dashboard,intermediate,yes,medium,no,yes,high,static,analyst,Tableau
+252365,54,unstructured,dashboard,advanced,no,high,yes,yes,low,weekly,student,Tableau
+910351,39,structured,dashboard,beginner,yes,high,yes,no,high,static,student,Tableau
+807068,71,semi,reporting,advanced,yes,low,yes,yes,medium,static,business,Power BI
+963468,27,structured,reporting,beginner,no,high,no,no,low,weekly,student,Excel
+542857,198,structured,dashboard,beginner,no,high,yes,yes,high,real-time,student,Tableau
+241326,152,structured,analytics,beginner,no,medium,no,no,low,static,analyst,Tableau
+476521,122,semi,reporting,advanced,yes,low,no,yes,high,weekly,student,Tableau
+744318,39,semi,dashboard,intermediate,no,medium,no,yes,low,static,student,Power BI
+396844,182,unstructured,reporting,intermediate,no,high,no,yes,low,real-time,student,Tableau
+497717,197,unstructured,dashboard,intermediate,yes,medium,no,yes,medium,weekly,business,Tableau
+212783,79,semi,dashboard,intermediate,yes,high,yes,no,medium,real-time,analyst,Power BI
+431125,157,unstructured,dashboard,beginner,yes,medium,no,yes,medium,weekly,student,Tableau
+22516,162,semi,ml,beginner,yes,low,yes,no,low,real-time,business,Power BI
+410897,189,semi,reporting,beginner,no,medium,yes,no,low,static,student,Tableau
+366324,39,unstructured,ml,advanced,no,low,yes,yes,medium,weekly,student,Python
+982676,142,semi,dashboard,intermediate,yes,high,yes,no,high,static,student,Tableau
+163910,174,semi,dashboard,beginner,no,medium,yes,no,low,weekly,analyst,Tableau
+60344,45,semi,reporting,intermediate,no,medium,no,yes,medium,weekly,analyst,Power BI
+325639,195,structured,ml,beginner,yes,high,no,no,medium,weekly,business,Tableau
+152052,190,unstructured,ml,beginner,yes,low,no,no,low,weekly,student,Python
+432963,117,semi,ml,beginner,no,medium,no,yes,low,real-time,business,Tableau
+444212,148,unstructured,ml,advanced,no,high,yes,no,low,static,student,Tableau
+758395,25,structured,ml,intermediate,yes,high,no,no,medium,real-time,student,Power BI
+398217,32,unstructured,dashboard,advanced,yes,high,yes,yes,high,weekly,business,Tableau
+357268,17,structured,dashboard,beginner,no,high,no,yes,low,real-time,student,Tableau
+234235,54,semi,analytics,intermediate,yes,medium,yes,no,high,real-time,business,Power BI
+382916,129,structured,analytics,beginner,no,low,yes,no,high,static,business,Tableau
+867117,19,unstructured,dashboard,beginner,yes,high,yes,no,medium,real-time,business,Power BI
+396297,72,unstructured,dashboard,advanced,no,high,no,yes,high,static,analyst,Tableau
+13471,38,structured,dashboard,advanced,no,medium,no,no,low,static,business,Power BI
+260028,193,structured,ml,advanced,yes,low,yes,yes,medium,real-time,analyst,Tableau
+615024,173,unstructured,analytics,intermediate,no,medium,no,yes,low,static,analyst,Tableau
+532235,64,structured,analytics,advanced,yes,medium,no,yes,low,static,business,Tableau
+755829,156,unstructured,ml,beginner,no,medium,yes,no,high,real-time,business,Python
+69786,134,unstructured,analytics,beginner,yes,high,no,no,medium,static,student,Tableau
+50177,15,unstructured,analytics,beginner,yes,medium,yes,yes,low,weekly,analyst,Tableau
+419396,19,structured,analytics,intermediate,yes,low,no,yes,medium,static,student,Tableau
+662016,185,unstructured,reporting,advanced,yes,medium,yes,yes,medium,weekly,student,Tableau
+992135,150,unstructured,ml,advanced,yes,medium,no,no,low,weekly,analyst,Python
+986581,148,semi,ml,advanced,no,high,yes,no,high,static,analyst,Tableau
+304135,119,semi,dashboard,advanced,yes,low,no,yes,medium,real-time,analyst,Tableau
+894042,118,semi,reporting,advanced,no,low,yes,no,medium,weekly,business,Tableau
+182827,117,unstructured,ml,intermediate,no,low,no,no,low,real-time,business,Python
+364732,7,unstructured,ml,intermediate,no,high,no,yes,medium,real-time,student,Python
+713604,191,unstructured,reporting,advanced,yes,low,no,no,low,real-time,business,Tableau
+919755,157,unstructured,analytics,advanced,no,medium,yes,yes,low,static,business,Tableau
+697319,178,semi,reporting,intermediate,no,low,yes,no,high,static,student,Tableau
+470978,176,unstructured,ml,advanced,yes,high,no,no,low,static,business,Tableau
+192986,168,structured,ml,advanced,no,medium,no,yes,high,static,business,Tableau
+909685,41,unstructured,analytics,intermediate,yes,medium,yes,yes,medium,static,analyst,Tableau
+500271,122,unstructured,analytics,advanced,no,medium,yes,no,low,real-time,student,Tableau
+928390,105,unstructured,analytics,beginner,yes,low,no,no,low,static,student,Tableau
+866114,119,unstructured,ml,advanced,no,high,yes,yes,medium,real-time,business,Tableau
+713585,172,unstructured,reporting,intermediate,no,medium,yes,yes,medium,real-time,analyst,Tableau
+214243,6,unstructured,dashboard,advanced,no,high,no,no,high,weekly,student,Tableau
+104837,138,structured,analytics,beginner,no,medium,no,yes,low,weekly,analyst,Tableau
+88193,192,semi,reporting,intermediate,yes,high,no,no,low,static,business,Power BI
+930376,30,structured,reporting,advanced,yes,medium,no,yes,medium,static,student,Tableau
+748191,195,semi,analytics,beginner,no,high,no,yes,medium,static,student,Tableau
+774691,45,structured,reporting,beginner,yes,medium,no,yes,high,weekly,analyst,Tableau
+828252,166,structured,reporting,beginner,yes,medium,yes,no,low,real-time,business,Power BI
+877772,96,structured,ml,advanced,no,high,yes,no,high,weekly,business,Tableau
+942793,26,semi,analytics,beginner,yes,high,no,no,medium,real-time,analyst,Tableau
+203342,12,structured,dashboard,advanced,no,high,yes,no,low,static,analyst,Tableau
+389597,28,structured,ml,advanced,no,medium,yes,no,medium,real-time,student,Python
+483746,37,unstructured,ml,intermediate,no,medium,yes,yes,low,weekly,student,Python
+611879,189,structured,dashboard,beginner,no,medium,yes,yes,high,real-time,analyst,Tableau
+278062,57,structured,dashboard,intermediate,yes,high,yes,yes,medium,static,student,Tableau
+69039,167,semi,ml,intermediate,yes,low,yes,no,high,weekly,business,Power BI
+754304,172,semi,reporting,intermediate,no,low,no,yes,low,weekly,student,Tableau
+639899,130,semi,dashboard,intermediate,no,low,no,yes,low,weekly,analyst,Tableau
+7626,98,unstructured,dashboard,beginner,no,low,no,yes,high,static,analyst,Python
+620590,124,unstructured,dashboard,intermediate,yes,high,no,yes,high,real-time,student,Tableau
+503110,48,structured,dashboard,intermediate,no,medium,no,yes,low,weekly,business,Power BI
+792069,147,semi,reporting,intermediate,no,medium,yes,no,low,static,business,Tableau
+854782,128,semi,ml,advanced,no,high,no,no,low,real-time,student,Tableau
+429328,83,semi,ml,advanced,yes,high,yes,yes,high,static,business,Tableau
+862913,16,structured,dashboard,beginner,no,high,yes,no,high,real-time,student,Tableau
+863593,187,unstructured,dashboard,beginner,yes,high,yes,yes,low,static,business,Tableau
+589861,133,unstructured,analytics,beginner,yes,medium,no,yes,medium,weekly,business,Tableau
+688227,183,unstructured,reporting,beginner,no,low,yes,no,low,real-time,student,Excel
+822580,81,structured,reporting,intermediate,yes,low,no,yes,medium,weekly,student,Tableau
+729756,132,structured,dashboard,advanced,yes,medium,yes,yes,high,static,business,Tableau
+801577,71,structured,dashboard,advanced,no,high,yes,no,low,static,business,Tableau
+927040,8,unstructured,dashboard,beginner,no,medium,yes,yes,medium,weekly,student,Tableau
+657131,51,unstructured,dashboard,advanced,no,medium,yes,no,medium,static,analyst,Tableau
+258019,121,semi,ml,advanced,yes,low,yes,no,low,real-time,student,Tableau
+405295,169,semi,ml,beginner,yes,medium,no,yes,low,static,analyst,Tableau
+395585,194,semi,dashboard,advanced,yes,low,no,no,low,real-time,student,Tableau
+310859,149,structured,dashboard,intermediate,yes,low,yes,no,high,weekly,business,Tableau
+593615,27,semi,dashboard,advanced,yes,high,yes,no,high,real-time,analyst,Tableau
+163858,107,semi,ml,intermediate,no,medium,yes,no,medium,weekly,analyst,Tableau
+939764,57,unstructured,dashboard,beginner,no,high,yes,yes,high,real-time,student,Tableau
+962904,101,unstructured,ml,beginner,no,low,no,no,high,real-time,student,Python
+576331,40,structured,dashboard,beginner,no,low,yes,no,medium,weekly,student,Tableau
+103061,9,semi,analytics,intermediate,no,medium,no,no,low,real-time,business,Power BI
+235111,81,semi,dashboard,advanced,no,medium,yes,yes,medium,real-time,student,Power BI
+119119,20,semi,ml,beginner,no,medium,no,no,medium,weekly,student,Tableau
+971665,18,structured,reporting,beginner,yes,medium,no,no,high,static,business,Tableau
+1230,194,structured,reporting,beginner,yes,high,no,no,low,real-time,business,Excel
+846693,150,unstructured,reporting,advanced,yes,medium,no,no,high,real-time,student,Tableau
+962871,42,semi,ml,advanced,yes,medium,no,yes,medium,weekly,student,Tableau
+319812,124,structured,reporting,intermediate,yes,medium,no,yes,high,static,analyst,Tableau
+717469,53,semi,reporting,beginner,yes,low,no,no,high,static,business,Tableau
+203908,31,structured,dashboard,advanced,no,high,no,yes,high,weekly,student,Tableau
+919545,106,semi,dashboard,advanced,yes,medium,yes,yes,medium,weekly,analyst,Tableau
+99071,45,unstructured,reporting,advanced,no,medium,no,yes,high,real-time,business,Power BI
+792478,150,semi,dashboard,beginner,yes,medium,yes,no,low,weekly,business,Tableau
+130322,92,unstructured,dashboard,beginner,yes,medium,yes,yes,high,static,business,Power BI
+913671,45,structured,ml,beginner,yes,medium,yes,yes,medium,real-time,student,Power BI
+861305,83,structured,ml,beginner,no,high,yes,yes,high,weekly,business,Tableau
+135306,152,unstructured,analytics,intermediate,yes,medium,yes,yes,medium,real-time,business,Tableau
+556197,9,unstructured,ml,advanced,yes,high,yes,no,low,real-time,student,Python
+723784,128,semi,reporting,beginner,yes,medium,yes,yes,medium,static,analyst,Tableau
+104417,133,structured,ml,advanced,yes,medium,yes,no,low,real-time,business,Tableau
+792120,194,semi,ml,intermediate,yes,medium,yes,no,medium,static,business,Tableau
+939906,54,semi,ml,intermediate,yes,medium,yes,yes,low,weekly,analyst,Tableau
+776620,9,structured,reporting,beginner,no,high,no,no,low,weekly,business,Excel
+599380,34,structured,dashboard,beginner,no,high,no,no,low,weekly,analyst,Tableau
+125733,13,structured,reporting,beginner,yes,high,yes,no,high,weekly,analyst,Tableau
+744031,169,semi,reporting,advanced,no,medium,yes,no,low,static,analyst,Tableau
+974363,13,structured,ml,intermediate,no,high,no,no,low,weekly,analyst,Tableau
+928331,117,semi,ml,beginner,no,high,yes,no,medium,weekly,student,Tableau
+105251,105,semi,dashboard,advanced,yes,medium,yes,no,high,weekly,business,Tableau
+10415,77,unstructured,reporting,intermediate,no,low,no,yes,high,weekly,business,Power BI
+330121,66,structured,reporting,intermediate,yes,high,no,no,medium,static,analyst,Tableau
+505740,145,structured,reporting,beginner,no,medium,no,yes,high,weekly,analyst,Tableau
+896075,119,semi,ml,intermediate,yes,high,no,no,low,weekly,business,Tableau
+819166,84,structured,reporting,advanced,no,low,yes,no,low,static,analyst,Tableau
+232876,173,structured,reporting,advanced,no,low,no,no,low,static,business,Tableau
+581881,165,structured,reporting,advanced,yes,medium,yes,no,medium,real-time,student,Tableau
+930149,74,structured,reporting,intermediate,no,high,no,no,high,weekly,business,Tableau
+860915,59,unstructured,analytics,advanced,no,high,no,no,high,real-time,analyst,Tableau
+364181,182,structured,reporting,intermediate,no,low,no,no,low,static,business,Excel
+355591,159,structured,ml,beginner,no,medium,yes,yes,low,static,student,Tableau
+118381,155,unstructured,ml,intermediate,yes,low,no,no,medium,real-time,business,Python
+116562,129,semi,analytics,advanced,no,high,yes,yes,medium,weekly,business,Tableau
+818314,28,semi,ml,advanced,no,high,yes,no,high,static,analyst,Tableau
+96857,193,semi,reporting,beginner,no,low,yes,yes,low,real-time,business,Power BI
+221549,89,unstructured,analytics,intermediate,yes,high,no,no,high,real-time,business,Tableau
+741163,139,unstructured,dashboard,beginner,no,medium,yes,yes,high,real-time,analyst,Tableau
+245577,200,semi,analytics,intermediate,yes,medium,no,yes,high,weekly,analyst,Tableau
+267243,186,semi,analytics,intermediate,no,low,yes,yes,low,real-time,student,Tableau
+713078,55,unstructured,reporting,intermediate,no,medium,yes,yes,medium,static,analyst,Tableau
+146460,28,structured,dashboard,advanced,no,low,yes,yes,medium,static,student,Tableau
+566698,180,structured,dashboard,beginner,yes,medium,no,no,medium,static,student,Tableau
+140677,62,structured,ml,advanced,yes,medium,no,no,high,real-time,analyst,Python
+595153,179,structured,dashboard,advanced,yes,low,yes,yes,high,real-time,analyst,Tableau
+268687,11,unstructured,reporting,intermediate,no,high,yes,no,medium,real-time,analyst,Tableau
+292400,191,unstructured,reporting,advanced,yes,high,yes,yes,medium,weekly,student,Tableau
+778783,15,semi,dashboard,beginner,yes,low,yes,no,low,static,student,Tableau
+770313,21,unstructured,ml,beginner,yes,high,no,no,high,static,analyst,Python
+209731,70,semi,ml,intermediate,yes,high,no,yes,medium,real-time,student,Power BI
+737220,37,unstructured,analytics,beginner,no,low,yes,yes,high,static,business,Tableau
+717135,8,semi,dashboard,intermediate,yes,high,no,yes,high,static,business,Tableau
+451413,25,structured,reporting,advanced,yes,medium,no,yes,high,weekly,business,Tableau
+149022,184,semi,analytics,beginner,no,medium,yes,no,low,weekly,analyst,Tableau
+975333,198,semi,analytics,intermediate,yes,high,yes,no,high,weekly,analyst,Tableau
+128984,166,semi,reporting,advanced,no,low,yes,no,high,weekly,student,Tableau
+78530,141,semi,analytics,advanced,yes,low,no,yes,low,real-time,analyst,Tableau
+958806,20,structured,ml,intermediate,yes,high,no,yes,high,real-time,business,Power BI
+337352,142,unstructured,analytics,advanced,no,high,yes,yes,low,static,analyst,Tableau
+124335,57,semi,analytics,intermediate,yes,high,no,no,low,weekly,student,Tableau
+925022,99,structured,ml,intermediate,yes,high,yes,no,high,static,analyst,Tableau
+946655,11,semi,ml,beginner,yes,high,no,no,low,static,student,Tableau
+770426,153,unstructured,reporting,advanced,no,high,yes,no,high,weekly,business,Tableau
+16480,41,structured,dashboard,advanced,yes,medium,no,no,low,weekly,analyst,Power BI
+676197,81,unstructured,analytics,beginner,yes,low,yes,yes,low,weekly,analyst,Tableau
+216851,93,semi,ml,advanced,no,medium,yes,no,medium,weekly,student,Tableau
+705901,89,semi,analytics,intermediate,no,high,no,yes,high,weekly,business,Tableau
+744292,177,semi,dashboard,advanced,no,medium,yes,yes,low,weekly,student,Tableau
+121170,193,structured,dashboard,intermediate,yes,medium,no,no,low,weekly,business,Tableau
+24481,54,unstructured,analytics,intermediate,no,low,no,no,high,static,business,Power BI
+20121,45,unstructured,ml,intermediate,no,medium,yes,no,high,weekly,business,Python
+164030,14,semi,ml,intermediate,no,medium,yes,no,medium,static,analyst,Tableau
+900352,149,structured,dashboard,intermediate,no,high,yes,yes,medium,real-time,business,Tableau
+641298,64,unstructured,reporting,beginner,no,medium,no,no,medium,real-time,student,Excel
+208918,161,semi,reporting,intermediate,yes,medium,yes,yes,high,weekly,analyst,Tableau
+645519,35,semi,analytics,intermediate,no,high,no,no,medium,static,analyst,Tableau
+125216,172,semi,dashboard,advanced,yes,low,no,no,low,weekly,business,Tableau
+520285,29,unstructured,analytics,beginner,no,high,yes,no,low,static,student,Tableau
+452259,43,unstructured,ml,intermediate,no,medium,yes,no,low,weekly,student,Python
+157899,111,unstructured,reporting,advanced,no,high,no,no,medium,real-time,student,Tableau
+425545,120,semi,ml,beginner,yes,high,no,yes,low,real-time,business,Tableau
+230377,74,structured,dashboard,advanced,yes,high,yes,yes,high,real-time,student,Tableau
+949700,140,structured,reporting,advanced,no,medium,no,yes,low,static,business,Tableau
+387409,145,structured,ml,intermediate,yes,low,yes,no,low,weekly,business,Tableau
+371518,58,semi,analytics,beginner,no,high,no,yes,low,real-time,business,Tableau
+157932,40,unstructured,reporting,beginner,no,low,no,no,medium,weekly,business,Excel
+737442,27,unstructured,ml,advanced,yes,low,yes,no,low,static,business,Python
+869087,169,unstructured,dashboard,advanced,no,low,no,yes,high,real-time,analyst,Tableau
+946008,87,semi,reporting,advanced,no,high,no,yes,low,real-time,analyst,Tableau
+894560,97,structured,analytics,beginner,no,low,no,yes,high,weekly,analyst,Tableau
+269676,7,unstructured,analytics,intermediate,yes,low,no,no,high,real-time,business,Tableau
+197873,133,semi,reporting,advanced,yes,low,yes,no,low,static,student,Tableau
+523409,146,structured,reporting,advanced,yes,medium,no,no,medium,real-time,student,Tableau
+542144,176,semi,analytics,intermediate,no,medium,yes,no,medium,real-time,business,Tableau
+176432,152,semi,analytics,advanced,yes,low,yes,yes,high,static,analyst,Tableau
+267105,58,semi,ml,intermediate,yes,high,yes,yes,high,real-time,student,Tableau
+536231,93,unstructured,dashboard,advanced,no,medium,yes,yes,low,real-time,student,Power BI
+886474,42,unstructured,reporting,beginner,no,medium,yes,no,high,static,analyst,Tableau
+326670,39,structured,ml,advanced,no,medium,yes,no,medium,real-time,business,Power BI
+352295,184,semi,dashboard,intermediate,yes,high,yes,no,medium,weekly,business,Tableau
+971423,45,semi,ml,beginner,no,high,no,no,medium,real-time,analyst,Tableau
+883129,111,semi,dashboard,beginner,yes,high,no,yes,low,static,student,Tableau
+729882,122,semi,dashboard,beginner,yes,high,yes,yes,low,weekly,analyst,Tableau
+226056,49,structured,ml,intermediate,no,high,yes,no,medium,static,student,Tableau
+369225,12,semi,dashboard,beginner,no,low,no,no,medium,real-time,student,Excel
+270874,81,unstructured,dashboard,beginner,yes,medium,no,yes,high,weekly,student,Tableau
+958324,86,unstructured,ml,intermediate,no,medium,yes,no,low,weekly,student,Python
+150230,69,semi,ml,beginner,no,low,no,yes,low,real-time,business,Power BI
+787686,50,unstructured,ml,advanced,no,low,yes,no,low,weekly,analyst,Python
+881331,106,unstructured,analytics,intermediate,yes,low,no,no,medium,weekly,student,Tableau
+945353,11,structured,reporting,advanced,no,low,no,no,low,real-time,business,Excel
+400392,43,semi,reporting,beginner,no,medium,no,no,medium,static,business,Power BI
+759619,66,unstructured,reporting,intermediate,yes,high,no,no,high,weekly,business,Tableau
+997735,41,semi,analytics,intermediate,yes,high,no,no,medium,static,student,Tableau
+120217,115,unstructured,reporting,intermediate,yes,low,yes,yes,low,static,business,Tableau
+637303,186,semi,reporting,intermediate,no,high,no,no,low,weekly,analyst,Tableau
+788429,40,semi,dashboard,intermediate,no,low,no,yes,low,weekly,analyst,Tableau
+573009,91,unstructured,analytics,beginner,no,medium,yes,yes,high,weekly,student,Tableau
+31884,174,structured,ml,intermediate,no,low,yes,yes,high,real-time,business,Power BI
+488994,137,structured,dashboard,advanced,yes,high,yes,no,medium,static,student,Tableau
+216900,148,structured,dashboard,advanced,yes,medium,no,yes,medium,real-time,analyst,Tableau
+779802,8,unstructured,dashboard,advanced,no,low,no,yes,low,real-time,student,Tableau
+699247,106,semi,dashboard,beginner,no,high,no,no,medium,real-time,business,Tableau
+672797,116,semi,dashboard,intermediate,yes,high,yes,yes,high,static,business,Tableau
+926543,5,structured,dashboard,advanced,yes,medium,yes,no,medium,real-time,analyst,Tableau
+641523,112,semi,dashboard,intermediate,yes,high,yes,yes,high,real-time,business,Tableau
+544205,110,structured,dashboard,advanced,yes,high,yes,yes,medium,real-time,analyst,Tableau
+868751,86,unstructured,ml,advanced,no,medium,no,no,high,static,student,Python
+978536,124,semi,analytics,intermediate,no,low,yes,yes,low,weekly,business,Tableau
+62934,36,semi,analytics,beginner,no,high,no,yes,high,weekly,student,Tableau
+61818,147,semi,reporting,intermediate,yes,high,no,yes,low,static,business,Power BI
+839958,120,structured,dashboard,advanced,yes,low,no,no,medium,weekly,analyst,Tableau
+14035,176,unstructured,reporting,advanced,yes,medium,no,no,high,static,analyst,Python
+455204,21,unstructured,reporting,advanced,no,low,no,no,high,static,student,Python
+904955,38,unstructured,analytics,beginner,yes,high,yes,no,medium,real-time,analyst,Tableau
+998499,50,structured,analytics,intermediate,no,high,no,no,medium,static,student,Tableau
+989948,67,unstructured,ml,beginner,no,high,no,yes,medium,static,analyst,Python
+168370,115,unstructured,dashboard,advanced,no,medium,yes,yes,medium,real-time,student,Tableau
+532875,93,unstructured,reporting,advanced,no,high,no,yes,low,weekly,analyst,Tableau
+459646,79,unstructured,reporting,advanced,no,medium,yes,yes,low,real-time,business,Power BI
+138852,128,unstructured,ml,beginner,no,medium,no,no,high,static,analyst,Python
+171930,35,unstructured,analytics,advanced,yes,medium,no,yes,high,static,analyst,Tableau
+232639,192,semi,dashboard,advanced,yes,medium,yes,yes,low,real-time,analyst,Tableau
+928203,180,semi,ml,intermediate,no,high,no,no,low,real-time,student,Tableau
+377504,198,semi,ml,intermediate,no,low,no,no,low,real-time,business,Power BI
+886571,130,semi,ml,beginner,no,high,yes,no,medium,static,business,Tableau
+140363,51,structured,ml,intermediate,yes,high,no,yes,high,static,student,Tableau
+803836,70,structured,analytics,intermediate,yes,medium,yes,yes,low,static,analyst,Tableau
+115871,165,semi,ml,beginner,yes,high,no,no,low,static,analyst,Tableau
+748242,27,structured,analytics,beginner,yes,high,yes,yes,low,weekly,analyst,Tableau
+383273,65,semi,reporting,beginner,yes,medium,yes,yes,low,static,business,Power BI
+469358,148,unstructured,dashboard,beginner,no,medium,no,no,low,real-time,business,Power BI
+727054,40,structured,reporting,intermediate,yes,low,yes,no,low,weekly,business,Power BI
+228323,131,unstructured,dashboard,advanced,yes,high,no,yes,high,weekly,business,Tableau
+305578,29,semi,analytics,intermediate,no,medium,yes,no,high,weekly,analyst,Tableau
+297363,81,unstructured,reporting,beginner,no,low,no,no,high,static,analyst,Python
+765681,181,unstructured,analytics,intermediate,no,high,no,no,high,static,analyst,Tableau
+416196,162,unstructured,analytics,beginner,no,high,yes,no,low,weekly,business,Tableau
+345553,157,semi,reporting,intermediate,no,medium,yes,no,medium,static,business,Tableau
+740298,81,structured,reporting,advanced,yes,medium,yes,yes,high,weekly,analyst,Tableau
+628778,44,structured,dashboard,intermediate,yes,medium,yes,no,medium,real-time,analyst,Power BI
+113625,136,semi,ml,intermediate,no,high,yes,no,medium,real-time,business,Tableau
+605955,48,semi,reporting,beginner,no,high,yes,yes,high,weekly,business,Tableau
+624871,200,unstructured,dashboard,advanced,no,medium,no,no,medium,static,analyst,Tableau
+617615,77,unstructured,dashboard,intermediate,no,low,yes,no,low,weekly,business,Power BI
+799559,65,structured,reporting,intermediate,yes,high,no,no,low,static,student,Tableau
+467915,57,unstructured,ml,advanced,yes,medium,yes,no,low,static,business,Python
+937835,137,semi,ml,advanced,yes,low,no,no,high,static,analyst,Tableau
+473132,168,structured,reporting,advanced,yes,high,no,yes,medium,static,analyst,Tableau
+418274,191,unstructured,dashboard,advanced,no,low,no,yes,medium,real-time,business,Tableau
+780281,127,structured,reporting,beginner,yes,low,no,yes,low,weekly,student,Tableau
+225628,182,unstructured,analytics,beginner,no,medium,no,yes,medium,static,student,Tableau
+689206,141,structured,dashboard,beginner,no,high,yes,yes,high,static,student,Tableau
+770717,138,unstructured,analytics,advanced,no,low,no,yes,high,real-time,business,Tableau
+196229,163,unstructured,reporting,advanced,yes,low,yes,yes,low,weekly,analyst,Tableau
+718938,109,unstructured,analytics,intermediate,no,medium,no,no,medium,real-time,analyst,Tableau
+545332,184,semi,reporting,advanced,no,high,yes,yes,medium,weekly,student,Tableau
+473044,98,structured,reporting,advanced,no,medium,no,yes,high,static,business,Tableau
+81705,65,semi,analytics,intermediate,no,low,yes,no,low,real-time,analyst,Power BI
+836347,157,structured,ml,intermediate,no,low,no,yes,low,static,student,Tableau
+221815,129,unstructured,ml,advanced,yes,medium,yes,yes,medium,real-time,student,Tableau
+29194,185,semi,ml,beginner,yes,medium,no,yes,low,weekly,business,Power BI
+748539,125,structured,dashboard,advanced,no,high,yes,no,medium,static,business,Tableau
+470450,113,semi,dashboard,advanced,no,high,no,yes,low,real-time,business,Tableau
+165497,44,structured,reporting,advanced,no,low,yes,no,low,real-time,business,Power BI
+132838,164,semi,ml,advanced,yes,low,yes,yes,medium,real-time,student,Tableau
+321767,6,unstructured,dashboard,beginner,no,low,yes,yes,high,static,student,Tableau
+704905,22,semi,dashboard,beginner,yes,low,yes,no,low,real-time,student,Power BI
+81407,20,unstructured,reporting,advanced,no,high,yes,yes,low,real-time,business,Power BI
+663791,163,structured,ml,advanced,yes,medium,no,no,low,static,analyst,Tableau
+570673,22,structured,analytics,beginner,yes,high,yes,yes,high,static,business,Tableau
+951618,51,semi,ml,beginner,yes,high,no,no,low,static,analyst,Tableau
+614018,38,unstructured,reporting,intermediate,yes,low,no,no,medium,static,business,Power BI
+321552,24,semi,dashboard,beginner,yes,high,no,yes,high,weekly,business,Tableau
+777375,163,structured,dashboard,intermediate,yes,medium,no,no,low,real-time,analyst,Tableau
+141217,52,semi,analytics,beginner,no,high,no,yes,high,weekly,business,Tableau
+704486,53,unstructured,dashboard,intermediate,yes,low,yes,yes,medium,weekly,analyst,Tableau
+249529,86,semi,ml,advanced,yes,medium,yes,no,medium,weekly,business,Tableau
+13030,177,structured,reporting,advanced,yes,medium,no,yes,high,static,business,Tableau
+507342,39,structured,ml,advanced,no,high,no,yes,high,weekly,student,Tableau
+555807,15,semi,reporting,advanced,no,medium,yes,yes,medium,weekly,analyst,Tableau
+711384,192,structured,dashboard,intermediate,no,medium,yes,yes,high,weekly,student,Tableau
+641311,123,structured,ml,beginner,no,high,no,no,high,weekly,business,Tableau
+795032,69,structured,analytics,beginner,yes,low,yes,yes,low,weekly,business,Tableau
+684149,7,structured,analytics,beginner,yes,low,no,no,high,static,student,Tableau
+601771,169,unstructured,analytics,advanced,yes,low,no,no,low,real-time,business,Tableau
+445240,10,unstructured,ml,advanced,yes,medium,no,no,high,static,business,Python
+134607,167,structured,analytics,intermediate,yes,medium,yes,no,medium,real-time,student,Tableau
+853911,16,unstructured,analytics,intermediate,no,high,yes,yes,medium,real-time,analyst,Tableau
+922811,33,semi,dashboard,intermediate,no,medium,no,no,high,real-time,student,Power BI
+172037,42,semi,reporting,beginner,no,medium,yes,no,high,weekly,analyst,Tableau
+783210,127,structured,dashboard,intermediate,no,low,no,yes,medium,static,student,Tableau
+698254,33,unstructured,analytics,intermediate,no,medium,no,no,low,real-time,analyst,Tableau
+252022,115,unstructured,reporting,advanced,no,low,no,no,low,static,business,Python
+390616,146,semi,reporting,intermediate,yes,high,yes,yes,low,weekly,analyst,Tableau
+898861,58,semi,reporting,intermediate,no,medium,yes,no,low,real-time,student,Power BI
+864143,27,unstructured,analytics,advanced,yes,high,no,yes,low,weekly,business,Tableau
+85019,84,semi,ml,intermediate,no,low,yes,no,low,weekly,analyst,Power BI
+24497,165,semi,dashboard,intermediate,no,low,no,yes,medium,real-time,student,Power BI
+756971,110,semi,ml,advanced,no,high,no,no,high,real-time,student,Tableau
+952759,146,semi,ml,beginner,no,low,no,no,high,static,student,Tableau
+422931,101,structured,reporting,advanced,yes,low,no,yes,low,weekly,business,Tableau
+467377,195,structured,reporting,advanced,no,medium,no,no,medium,weekly,student,Tableau
+137884,103,semi,ml,intermediate,no,medium,no,no,high,real-time,student,Tableau
+64655,148,structured,analytics,advanced,yes,low,yes,no,medium,static,business,Tableau
+23982,106,semi,analytics,intermediate,no,high,yes,yes,high,weekly,business,Tableau
+515462,50,structured,analytics,intermediate,yes,low,no,yes,high,real-time,business,Power BI
+693838,50,structured,reporting,advanced,no,high,yes,no,low,weekly,analyst,Tableau
+225539,37,semi,dashboard,advanced,no,medium,no,no,low,static,student,Tableau
+101098,182,unstructured,reporting,intermediate,yes,high,no,no,medium,weekly,analyst,Tableau
+757665,163,structured,ml,beginner,no,low,no,no,low,static,business,Excel
+42193,152,semi,dashboard,advanced,yes,high,no,no,high,weekly,analyst,Tableau
+916859,93,semi,reporting,intermediate,no,medium,no,no,low,weekly,business,Power BI
+425155,24,unstructured,reporting,intermediate,yes,low,yes,no,medium,static,business,Power BI
+864998,116,semi,dashboard,advanced,yes,high,yes,no,high,weekly,analyst,Tableau
+465506,197,semi,analytics,advanced,no,low,no,no,high,real-time,analyst,Tableau
+759058,118,structured,dashboard,beginner,yes,low,no,yes,medium,static,business,Tableau
+521358,94,semi,reporting,intermediate,yes,medium,yes,no,high,static,business,Power BI
+921465,190,semi,dashboard,advanced,no,medium,no,no,low,real-time,business,Tableau
+807269,90,unstructured,dashboard,beginner,no,high,no,no,high,weekly,student,Tableau
+768223,51,structured,reporting,beginner,no,medium,no,yes,low,real-time,student,Excel
+495665,66,structured,dashboard,intermediate,yes,high,no,no,low,static,business,Power BI
+902835,189,unstructured,reporting,advanced,no,medium,yes,yes,high,static,business,Tableau
+326625,21,semi,reporting,advanced,yes,high,no,yes,high,real-time,student,Tableau
+755223,124,structured,analytics,advanced,no,high,no,yes,low,weekly,business,Tableau
+621255,152,semi,analytics,beginner,yes,high,yes,no,low,weekly,analyst,Tableau
+662951,18,semi,ml,advanced,yes,medium,yes,yes,low,static,business,Tableau
+806222,15,structured,analytics,intermediate,yes,low,yes,no,low,weekly,analyst,Tableau
+32224,47,structured,dashboard,intermediate,yes,high,yes,yes,high,weekly,business,Power BI
+539832,20,semi,reporting,beginner,yes,low,yes,yes,low,weekly,student,Tableau
+305958,108,structured,reporting,intermediate,no,medium,yes,yes,low,static,analyst,Tableau
+644331,17,structured,dashboard,beginner,no,high,yes,no,medium,static,student,Tableau
+692025,71,structured,ml,advanced,yes,low,yes,yes,medium,weekly,analyst,Tableau
+36473,161,structured,reporting,advanced,no,medium,yes,no,low,weekly,business,Tableau
+880571,191,unstructured,ml,advanced,yes,low,yes,no,medium,weekly,analyst,Python
+121829,161,semi,dashboard,advanced,no,medium,no,no,medium,real-time,business,Tableau
+739910,200,semi,reporting,advanced,no,medium,yes,no,high,weekly,analyst,Tableau
+376571,31,unstructured,reporting,advanced,no,low,no,yes,low,weekly,business,Tableau
+670536,198,unstructured,ml,advanced,no,medium,yes,no,low,weekly,analyst,Python
+711692,18,unstructured,dashboard,intermediate,no,low,yes,yes,high,real-time,student,Tableau
+590098,151,unstructured,dashboard,beginner,no,high,no,no,medium,real-time,student,Tableau
+186814,32,unstructured,dashboard,beginner,no,medium,yes,yes,low,static,analyst,Tableau
+353661,43,semi,ml,advanced,no,high,yes,no,low,weekly,student,Tableau
+681058,156,structured,ml,intermediate,yes,low,yes,no,medium,weekly,business,Tableau
+726574,150,unstructured,analytics,intermediate,yes,low,yes,yes,medium,weekly,student,Tableau
+806729,178,unstructured,dashboard,beginner,yes,medium,no,yes,low,static,analyst,Tableau
+267638,64,semi,ml,advanced,yes,low,no,no,low,static,student,Python
+933026,118,structured,dashboard,beginner,yes,high,yes,yes,low,weekly,analyst,Tableau
+857737,131,structured,ml,beginner,no,high,no,yes,high,static,analyst,Tableau
+993280,13,semi,analytics,beginner,yes,medium,yes,no,low,weekly,business,Tableau
+939248,93,semi,dashboard,beginner,yes,low,yes,yes,low,static,business,Power BI
+656869,200,structured,reporting,beginner,yes,medium,yes,yes,low,weekly,analyst,Tableau
+893977,47,structured,analytics,intermediate,no,high,no,no,high,real-time,analyst,Tableau
+960320,138,structured,ml,advanced,no,high,yes,no,low,static,business,Tableau
+944360,176,semi,analytics,advanced,yes,medium,no,no,low,static,business,Tableau
+12521,128,structured,analytics,beginner,yes,medium,yes,yes,high,static,business,Tableau
+15746,189,unstructured,reporting,intermediate,no,high,yes,yes,high,static,analyst,Tableau
+563915,137,structured,ml,intermediate,yes,medium,no,no,low,real-time,business,Power BI
+629437,29,structured,reporting,intermediate,no,high,no,no,medium,weekly,business,Tableau
+61168,75,semi,reporting,beginner,yes,medium,no,no,high,real-time,student,Power BI
+120725,73,unstructured,reporting,intermediate,no,high,no,no,low,static,analyst,Tableau
+741878,42,unstructured,analytics,intermediate,no,low,no,yes,high,static,student,Tableau
+800281,185,unstructured,reporting,beginner,yes,high,no,yes,low,real-time,business,Tableau
+534062,46,structured,ml,advanced,no,low,no,no,low,weekly,student,Python
+856056,140,semi,ml,beginner,yes,medium,yes,no,medium,weekly,business,Tableau
+94600,102,unstructured,dashboard,intermediate,no,medium,no,yes,medium,static,business,Power BI
+479436,185,structured,dashboard,advanced,yes,low,no,yes,high,real-time,analyst,Tableau
+963978,83,unstructured,ml,intermediate,yes,high,yes,no,medium,real-time,business,Power BI
+885049,129,unstructured,analytics,beginner,yes,medium,yes,no,high,weekly,business,Tableau
+423785,46,semi,analytics,beginner,yes,medium,yes,no,high,static,analyst,Tableau
+532609,81,semi,dashboard,intermediate,no,high,no,no,low,static,business,Power BI
+863207,73,unstructured,reporting,advanced,no,medium,no,yes,medium,weekly,student,Tableau
+708653,180,unstructured,analytics,beginner,no,medium,yes,no,low,real-time,business,Tableau
+849458,102,structured,reporting,advanced,no,medium,no,yes,medium,real-time,business,Tableau
+555183,127,unstructured,ml,beginner,no,high,no,no,low,real-time,business,Python
+125977,165,unstructured,dashboard,beginner,yes,high,no,no,medium,static,analyst,Tableau
+335311,141,structured,analytics,beginner,no,medium,no,no,high,static,student,Tableau
+227850,46,structured,dashboard,beginner,no,high,no,yes,medium,real-time,business,Power BI
+557805,153,unstructured,dashboard,advanced,no,medium,yes,no,high,real-time,student,Tableau
+275740,131,unstructured,ml,intermediate,yes,high,yes,no,high,weekly,student,Tableau
+290836,38,semi,dashboard,advanced,yes,medium,no,yes,low,static,analyst,Tableau
+505913,187,structured,analytics,beginner,yes,medium,yes,yes,high,real-time,analyst,Tableau
+306193,111,structured,dashboard,advanced,no,medium,no,no,medium,static,student,Tableau
+897263,46,unstructured,dashboard,advanced,yes,high,yes,no,low,weekly,analyst,Tableau
+184772,116,semi,ml,advanced,yes,medium,yes,yes,low,weekly,analyst,Tableau
+234050,113,semi,ml,beginner,yes,medium,no,yes,high,weekly,business,Tableau
+679956,183,unstructured,reporting,beginner,yes,medium,no,no,medium,real-time,business,Power BI
+566825,169,semi,reporting,advanced,yes,low,no,no,high,weekly,student,Tableau
+138335,179,structured,ml,beginner,no,high,no,no,low,real-time,business,Tableau
+549214,118,semi,dashboard,advanced,no,low,yes,no,low,static,student,Tableau
+375747,50,unstructured,ml,intermediate,no,medium,yes,no,medium,static,business,Python
+19526,11,structured,ml,advanced,yes,low,no,yes,low,weekly,analyst,Python
+655349,24,unstructured,reporting,intermediate,no,high,no,yes,high,static,analyst,Tableau
+553506,27,unstructured,reporting,intermediate,yes,high,yes,no,low,static,analyst,Tableau
+131321,148,structured,ml,intermediate,yes,medium,no,yes,low,static,analyst,Tableau
+20092,151,structured,reporting,beginner,yes,low,no,no,high,real-time,analyst,Tableau
+657368,180,structured,analytics,intermediate,yes,high,no,yes,low,static,student,Tableau
+717701,14,unstructured,analytics,advanced,no,high,no,yes,low,weekly,analyst,Tableau
+40162,28,structured,ml,advanced,yes,low,no,no,medium,weekly,business,Power BI
+698190,64,semi,dashboard,beginner,yes,low,no,no,low,weekly,business,Power BI
+468710,171,structured,reporting,advanced,yes,low,no,no,medium,real-time,analyst,Tableau
+526820,33,unstructured,ml,beginner,yes,low,yes,no,high,weekly,student,Python
+651108,182,semi,ml,intermediate,yes,medium,yes,yes,medium,real-time,student,Tableau
+598202,199,unstructured,reporting,beginner,no,medium,yes,no,medium,real-time,student,Tableau
+383570,173,semi,ml,beginner,no,high,yes,no,low,static,analyst,Tableau
+216009,119,structured,ml,intermediate,no,medium,no,no,high,weekly,student,Tableau
+586030,127,unstructured,reporting,beginner,yes,high,no,no,high,weekly,business,Tableau
+827690,13,structured,analytics,intermediate,no,high,no,yes,medium,static,student,Tableau
+132996,29,unstructured,reporting,intermediate,yes,low,no,yes,high,weekly,analyst,Tableau
+230598,35,unstructured,reporting,beginner,yes,medium,no,no,low,static,analyst,Tableau
+894173,178,unstructured,reporting,intermediate,no,low,yes,no,high,real-time,analyst,Tableau
+446439,194,unstructured,ml,beginner,yes,high,yes,yes,low,weekly,analyst,Tableau
+606125,7,structured,dashboard,beginner,no,low,yes,yes,high,static,analyst,Tableau
+49562,81,unstructured,analytics,advanced,yes,high,no,yes,medium,weekly,analyst,Tableau
+467540,147,structured,analytics,advanced,no,medium,no,yes,medium,weekly,analyst,Tableau
+812760,40,structured,ml,advanced,yes,medium,yes,no,medium,weekly,analyst,Tableau
+601081,41,structured,ml,intermediate,yes,low,yes,yes,medium,static,business,Power BI
+191592,54,structured,analytics,beginner,no,high,yes,yes,high,real-time,analyst,Tableau
+404602,137,structured,analytics,advanced,no,high,no,no,high,static,student,Tableau
+288923,15,unstructured,reporting,beginner,no,low,yes,no,high,weekly,analyst,Tableau
+97764,176,semi,reporting,intermediate,no,low,no,no,high,static,analyst,Tableau
+920881,130,structured,dashboard,beginner,no,medium,yes,yes,low,static,student,Tableau
+215492,172,structured,analytics,intermediate,no,high,no,no,low,weekly,analyst,Tableau
+32363,85,unstructured,ml,intermediate,no,medium,yes,yes,medium,real-time,student,Power BI
+692153,74,unstructured,analytics,intermediate,no,medium,no,yes,medium,static,business,Tableau
+640219,180,unstructured,analytics,intermediate,yes,low,no,no,low,static,analyst,Tableau
+501491,132,structured,analytics,advanced,no,low,yes,no,medium,static,analyst,Tableau
+720958,158,semi,reporting,beginner,yes,high,yes,yes,high,static,business,Tableau
+208200,81,unstructured,dashboard,advanced,yes,high,yes,no,low,weekly,student,Tableau
+370440,42,unstructured,ml,advanced,no,low,yes,yes,low,real-time,business,Python
+649107,49,semi,reporting,intermediate,no,high,yes,yes,high,real-time,analyst,Tableau
+330821,12,semi,analytics,advanced,yes,low,no,no,high,real-time,business,Tableau
+494056,178,structured,reporting,beginner,no,low,yes,no,medium,real-time,business,Tableau
+994011,198,structured,reporting,advanced,yes,high,no,no,high,weekly,student,Tableau
+57577,167,semi,dashboard,advanced,no,medium,yes,no,medium,real-time,student,Power BI
+844117,95,semi,analytics,advanced,no,high,yes,no,medium,real-time,analyst,Tableau
+884857,46,unstructured,ml,advanced,no,medium,yes,yes,medium,static,business,Python
+358191,90,structured,reporting,beginner,yes,medium,no,no,low,weekly,student,Excel
+893273,38,unstructured,ml,beginner,no,medium,no,no,low,weekly,analyst,Python
+464264,6,semi,analytics,advanced,yes,medium,no,no,medium,weekly,analyst,Tableau
+894908,94,structured,reporting,beginner,yes,low,yes,no,low,real-time,analyst,Excel
+618168,188,unstructured,analytics,beginner,yes,low,no,no,low,real-time,business,Tableau
+637866,151,unstructured,dashboard,beginner,no,medium,no,yes,high,real-time,analyst,Tableau
+649566,146,structured,ml,advanced,yes,medium,no,yes,medium,real-time,business,Tableau
+412976,60,structured,dashboard,advanced,yes,medium,no,no,low,weekly,student,Tableau
+919531,68,unstructured,analytics,advanced,no,low,yes,yes,medium,real-time,student,Tableau
+812583,197,structured,reporting,intermediate,no,medium,no,no,low,real-time,student,Excel
+644806,81,structured,reporting,beginner,no,medium,no,no,medium,weekly,business,Excel
+280926,199,structured,ml,advanced,yes,low,no,no,medium,static,analyst,Tableau
+712822,114,unstructured,analytics,intermediate,yes,low,no,yes,high,real-time,analyst,Tableau
+931600,24,unstructured,ml,beginner,yes,high,no,no,high,static,analyst,Python
+294990,63,semi,reporting,beginner,yes,low,no,no,high,static,analyst,Tableau
+663868,20,semi,reporting,beginner,no,low,no,no,medium,weekly,student,Excel
+974847,17,structured,analytics,beginner,yes,medium,yes,no,high,weekly,analyst,Tableau
+865755,167,unstructured,reporting,advanced,no,high,yes,no,low,real-time,analyst,Tableau
+92507,106,unstructured,dashboard,intermediate,yes,high,no,yes,medium,static,business,Power BI
+356034,123,semi,reporting,beginner,no,high,yes,no,low,weekly,student,Tableau
+253675,121,semi,ml,beginner,yes,high,no,yes,high,real-time,analyst,Tableau
+9714,153,unstructured,reporting,beginner,no,medium,no,no,medium,static,analyst,Python
+199470,84,semi,analytics,beginner,yes,medium,no,no,low,static,student,Tableau
+861429,128,unstructured,ml,intermediate,yes,medium,no,yes,high,real-time,student,Tableau
+793740,117,structured,dashboard,advanced,yes,high,yes,no,low,real-time,business,Tableau
+167566,43,semi,dashboard,beginner,yes,low,no,no,medium,real-time,student,Power BI
+450917,162,semi,dashboard,intermediate,no,high,yes,no,high,real-time,student,Tableau
+236154,187,unstructured,analytics,advanced,no,low,yes,no,low,weekly,student,Tableau
+300823,91,structured,dashboard,advanced,no,low,no,yes,medium,weekly,student,Tableau
+300244,184,semi,ml,intermediate,yes,high,yes,yes,high,real-time,analyst,Tableau
+897102,116,structured,analytics,intermediate,yes,low,no,no,medium,weekly,analyst,Tableau
+801074,139,unstructured,dashboard,beginner,yes,high,no,yes,low,weekly,analyst,Tableau
+774114,28,structured,dashboard,intermediate,yes,high,yes,no,medium,static,business,Power BI
+213810,76,semi,dashboard,intermediate,no,high,no,yes,medium,weekly,analyst,Tableau
+156062,182,structured,dashboard,advanced,no,low,no,yes,low,static,business,Tableau
+135199,91,structured,reporting,advanced,yes,high,yes,yes,low,static,business,Tableau
+530516,66,structured,ml,advanced,no,low,yes,no,low,weekly,student,Python
+41325,49,structured,dashboard,advanced,no,medium,no,yes,medium,static,business,Power BI
+54096,84,structured,reporting,beginner,yes,low,no,yes,low,static,analyst,Excel
+861998,33,unstructured,analytics,intermediate,no,high,no,yes,medium,static,student,Tableau
+67461,57,semi,ml,advanced,yes,medium,no,yes,low,real-time,student,Power BI
+64695,72,unstructured,reporting,intermediate,yes,high,no,yes,medium,real-time,business,Power BI
+588213,11,semi,reporting,intermediate,no,medium,yes,no,low,weekly,student,Tableau
+248908,170,semi,dashboard,advanced,yes,medium,yes,yes,low,weekly,analyst,Tableau
+206966,141,unstructured,dashboard,advanced,no,low,yes,yes,low,static,analyst,Tableau
+706720,182,unstructured,dashboard,intermediate,yes,low,yes,yes,high,weekly,student,Tableau
+947589,57,structured,reporting,intermediate,yes,high,no,yes,high,real-time,business,Power BI
+494563,59,unstructured,analytics,beginner,no,high,yes,yes,low,weekly,student,Tableau
+522890,123,structured,reporting,advanced,no,low,yes,yes,low,static,analyst,Tableau
+848068,32,structured,dashboard,intermediate,no,high,no,yes,medium,weekly,analyst,Tableau
+580556,53,semi,ml,beginner,yes,high,yes,yes,medium,weekly,business,Tableau
+674370,73,unstructured,reporting,intermediate,yes,high,no,yes,medium,real-time,analyst,Tableau
+53324,156,semi,dashboard,beginner,no,medium,no,no,medium,weekly,student,Tableau
+800341,183,semi,analytics,beginner,no,low,yes,no,medium,weekly,business,Tableau
+89608,148,semi,analytics,beginner,no,low,yes,no,low,weekly,analyst,Tableau
+475871,156,structured,ml,beginner,no,high,no,yes,low,static,business,Tableau
+222336,142,unstructured,reporting,beginner,no,low,yes,no,medium,weekly,business,Tableau
+714827,39,unstructured,dashboard,advanced,no,high,no,yes,medium,real-time,analyst,Tableau
+273656,149,unstructured,dashboard,beginner,yes,low,yes,yes,medium,weekly,business,Tableau
+561241,188,unstructured,dashboard,beginner,no,medium,no,no,high,weekly,student,Tableau
+543085,28,unstructured,dashboard,advanced,no,medium,yes,no,high,static,student,Tableau
+71811,66,unstructured,reporting,beginner,no,low,no,no,high,static,student,Python
+200820,125,unstructured,reporting,intermediate,yes,high,yes,yes,high,weekly,student,Tableau
+602905,90,unstructured,reporting,advanced,no,medium,no,no,medium,static,student,Python
+986279,93,semi,analytics,advanced,yes,low,no,no,high,real-time,business,Tableau
+795299,163,structured,ml,intermediate,no,high,no,yes,medium,weekly,analyst,Tableau
+311512,143,structured,analytics,intermediate,no,medium,yes,no,high,weekly,business,Tableau
+542205,26,structured,dashboard,beginner,no,high,no,yes,high,real-time,business,Tableau
+592758,182,structured,dashboard,advanced,no,medium,no,no,high,weekly,student,Tableau
+116735,92,semi,reporting,beginner,no,low,no,no,low,weekly,student,Excel
+994412,15,unstructured,reporting,advanced,yes,high,no,no,high,real-time,analyst,Tableau
+570866,111,semi,ml,intermediate,no,high,no,no,high,real-time,student,Tableau
+778482,98,structured,dashboard,advanced,yes,low,yes,yes,medium,real-time,student,Power BI
+28135,190,semi,ml,beginner,yes,medium,yes,yes,low,weekly,business,Power BI
+482330,8,structured,ml,advanced,yes,medium,no,no,low,static,student,Python
+466308,19,semi,reporting,intermediate,yes,medium,no,no,low,weekly,student,Tableau
+937169,198,structured,reporting,intermediate,no,low,yes,no,low,static,analyst,Tableau
+271895,18,unstructured,dashboard,beginner,no,medium,yes,no,low,real-time,analyst,Tableau
+260943,36,semi,ml,intermediate,yes,medium,no,no,low,real-time,analyst,Power BI
+853601,199,unstructured,ml,beginner,no,medium,no,yes,low,real-time,analyst,Python
+118937,173,unstructured,dashboard,advanced,no,low,no,yes,high,static,student,Tableau
+873438,199,semi,dashboard,advanced,no,high,no,yes,medium,weekly,analyst,Tableau
+806070,18,semi,reporting,advanced,no,medium,yes,no,high,real-time,analyst,Tableau
+899804,103,unstructured,ml,advanced,no,low,no,no,medium,real-time,analyst,Python
+798105,158,semi,reporting,advanced,yes,high,yes,no,high,weekly,student,Tableau
+357919,107,structured,ml,beginner,no,high,yes,yes,low,static,business,Tableau
+894253,137,unstructured,ml,advanced,yes,high,yes,no,high,static,business,Tableau
+937473,132,semi,dashboard,beginner,no,high,yes,yes,high,static,student,Tableau
+779994,99,structured,reporting,advanced,yes,low,yes,no,low,static,student,Tableau
+972474,193,unstructured,ml,beginner,no,low,yes,no,medium,static,analyst,Python
+504514,38,semi,ml,advanced,yes,high,no,yes,medium,real-time,student,Tableau
+993355,9,unstructured,analytics,advanced,yes,low,no,no,low,weekly,business,Tableau
+784768,6,unstructured,analytics,intermediate,yes,medium,no,no,high,static,business,Tableau
+394554,67,structured,analytics,intermediate,yes,medium,no,no,medium,real-time,business,Power BI
+98472,77,unstructured,dashboard,intermediate,yes,low,yes,yes,medium,real-time,business,Power BI
+738995,103,structured,ml,intermediate,yes,medium,yes,no,medium,weekly,student,Tableau
+831622,20,structured,ml,beginner,yes,medium,no,no,low,static,student,Excel
+947073,77,structured,ml,beginner,no,medium,yes,no,high,static,student,Tableau
+648716,135,structured,ml,advanced,no,high,no,no,high,static,student,Tableau
+926991,81,semi,ml,beginner,yes,medium,yes,yes,medium,real-time,student,Power BI
+221202,168,semi,ml,beginner,yes,high,no,no,high,weekly,student,Tableau
+854136,107,structured,ml,beginner,yes,low,yes,yes,low,weekly,student,Tableau
+547545,93,unstructured,reporting,advanced,no,low,no,no,low,real-time,business,Python
+67419,112,semi,analytics,intermediate,no,low,yes,yes,high,real-time,analyst,Tableau
+246439,45,semi,analytics,intermediate,yes,medium,yes,yes,low,weekly,business,Tableau
+672378,102,structured,ml,advanced,no,low,no,yes,high,weekly,business,Tableau
+37929,105,semi,dashboard,intermediate,no,low,no,no,medium,static,student,Power BI
+640043,129,semi,dashboard,beginner,yes,low,yes,yes,low,real-time,business,Power BI
+241761,117,structured,ml,beginner,yes,medium,no,yes,low,real-time,student,Tableau
+340767,103,semi,reporting,beginner,no,high,no,no,low,static,business,Tableau
+582784,59,unstructured,dashboard,beginner,yes,low,no,yes,low,static,student,Power BI
+87652,21,structured,analytics,beginner,yes,low,no,yes,medium,weekly,student,Power BI
+885668,159,unstructured,dashboard,intermediate,no,low,yes,no,high,real-time,student,Tableau
+329743,128,semi,analytics,intermediate,yes,low,yes,yes,high,real-time,analyst,Tableau
+485524,187,unstructured,ml,beginner,no,high,no,yes,low,weekly,analyst,Tableau
+240003,61,structured,analytics,beginner,yes,high,no,yes,high,static,business,Tableau
+768992,124,structured,dashboard,advanced,no,medium,no,no,low,static,student,Tableau
+365965,177,unstructured,analytics,intermediate,yes,medium,yes,no,medium,weekly,student,Tableau
+756087,137,structured,analytics,intermediate,no,medium,yes,no,medium,weekly,student,Tableau
+545839,196,structured,dashboard,beginner,yes,high,yes,yes,low,static,analyst,Tableau
+403107,197,unstructured,reporting,intermediate,no,low,yes,no,high,weekly,business,Tableau
+743001,90,semi,dashboard,intermediate,yes,low,no,yes,medium,static,student,Power BI
+570146,72,structured,reporting,advanced,no,high,yes,yes,high,weekly,business,Tableau
+552579,76,unstructured,analytics,advanced,no,high,no,no,medium,real-time,business,Tableau
+208502,45,unstructured,analytics,advanced,yes,high,no,no,medium,real-time,analyst,Tableau
+938147,101,semi,dashboard,advanced,yes,high,no,no,low,static,student,Tableau
+485924,109,structured,reporting,advanced,no,high,no,no,high,real-time,business,Tableau
+348647,186,semi,dashboard,advanced,no,medium,no,yes,high,real-time,business,Tableau
+814977,39,semi,reporting,beginner,no,low,no,no,low,static,student,Excel
+823612,199,structured,analytics,intermediate,yes,high,yes,no,medium,real-time,business,Tableau
+47323,188,unstructured,ml,advanced,yes,medium,no,yes,medium,static,analyst,Python
+682355,177,structured,analytics,advanced,yes,medium,yes,yes,low,static,student,Tableau
+397933,49,semi,dashboard,beginner,no,medium,no,yes,high,real-time,student,Tableau
+723002,77,unstructured,reporting,advanced,no,high,yes,yes,medium,weekly,analyst,Tableau
+236480,86,semi,ml,intermediate,no,low,no,yes,low,weekly,student,Tableau
+203174,135,semi,analytics,intermediate,yes,high,yes,no,low,static,business,Tableau
+264996,66,semi,dashboard,beginner,yes,low,no,yes,medium,static,analyst,Tableau
+68643,102,structured,reporting,beginner,yes,low,yes,yes,medium,real-time,analyst,Power BI
+714133,5,structured,dashboard,beginner,yes,high,yes,no,low,weekly,student,Tableau
+478004,95,structured,analytics,intermediate,yes,high,no,yes,medium,real-time,business,Power BI
+184500,95,semi,dashboard,beginner,yes,medium,no,yes,low,static,student,Power BI
+344451,167,unstructured,reporting,intermediate,yes,low,no,yes,low,real-time,analyst,Tableau
+444102,7,semi,analytics,advanced,no,low,yes,yes,high,weekly,analyst,Tableau
+530422,69,unstructured,analytics,intermediate,no,medium,yes,no,low,static,student,Tableau
+479716,146,structured,analytics,beginner,no,high,no,yes,medium,real-time,student,Tableau
+732593,100,unstructured,ml,intermediate,yes,medium,yes,yes,high,weekly,business,Tableau
+507351,39,unstructured,analytics,beginner,no,medium,no,no,low,static,student,Tableau
+683256,107,unstructured,analytics,intermediate,no,low,yes,no,low,real-time,analyst,Tableau
+103067,48,semi,reporting,intermediate,yes,high,yes,no,high,real-time,student,Tableau
+531263,168,structured,dashboard,intermediate,no,low,yes,yes,medium,real-time,analyst,Tableau
+999583,99,unstructured,ml,advanced,no,high,yes,no,high,static,business,Python
+444238,123,structured,reporting,beginner,no,low,no,no,high,real-time,business,Tableau
+230018,135,semi,dashboard,intermediate,no,high,no,no,low,static,business,Tableau
+789688,54,unstructured,reporting,advanced,yes,medium,yes,yes,medium,static,analyst,Tableau
+297455,186,structured,dashboard,advanced,no,high,no,no,low,real-time,analyst,Tableau
+35589,178,semi,reporting,advanced,yes,low,no,no,medium,real-time,student,Power BI
+873274,107,structured,reporting,intermediate,no,low,no,yes,medium,static,business,Tableau
+632137,165,unstructured,ml,advanced,yes,high,yes,no,high,weekly,analyst,Tableau
+779409,158,semi,dashboard,intermediate,yes,medium,no,no,low,static,analyst,Tableau
+831327,114,structured,dashboard,beginner,no,high,no,yes,low,static,student,Tableau
+933668,159,unstructured,reporting,intermediate,no,high,no,yes,high,weekly,student,Tableau
+228182,98,unstructured,analytics,advanced,yes,low,yes,no,low,static,business,Tableau
+28902,155,structured,reporting,intermediate,yes,high,no,yes,low,real-time,analyst,Power BI
+507665,99,unstructured,dashboard,beginner,no,low,no,no,high,weekly,business,Tableau
+408095,184,unstructured,reporting,beginner,no,medium,no,no,medium,weekly,analyst,Tableau
+552438,58,structured,analytics,intermediate,no,medium,yes,yes,low,real-time,business,Power BI
+351298,113,structured,analytics,intermediate,yes,low,no,yes,high,weekly,student,Tableau
+495832,116,semi,dashboard,advanced,yes,low,yes,yes,medium,static,student,Tableau
+515919,84,semi,analytics,beginner,yes,medium,no,yes,medium,real-time,analyst,Tableau
+535760,162,unstructured,analytics,advanced,yes,medium,yes,yes,high,static,student,Tableau
+831852,85,semi,dashboard,intermediate,yes,low,no,no,medium,real-time,student,Power BI
+732796,85,semi,dashboard,advanced,no,low,yes,no,high,weekly,business,Tableau
+389185,119,unstructured,dashboard,intermediate,yes,low,no,no,low,real-time,analyst,Tableau
+36415,51,unstructured,ml,intermediate,yes,high,no,no,low,real-time,analyst,Power BI
+180256,195,structured,reporting,beginner,no,high,no,yes,high,real-time,analyst,Tableau
+286116,139,structured,dashboard,advanced,yes,high,no,yes,high,real-time,business,Tableau
+518683,83,structured,dashboard,advanced,no,low,yes,yes,high,real-time,student,Tableau
+878659,110,unstructured,reporting,intermediate,no,medium,no,no,low,weekly,business,Tableau
+400455,65,unstructured,ml,advanced,yes,high,yes,yes,medium,real-time,student,Tableau
+832073,44,structured,analytics,intermediate,no,medium,yes,no,high,weekly,student,Tableau
+230426,187,structured,dashboard,beginner,yes,low,yes,no,medium,real-time,student,Tableau
+583092,180,semi,analytics,intermediate,no,high,yes,no,low,weekly,student,Tableau
+938504,160,semi,reporting,beginner,no,high,yes,no,medium,weekly,analyst,Tableau
+132554,159,unstructured,analytics,advanced,no,medium,yes,no,medium,static,business,Tableau
+757278,159,unstructured,ml,advanced,yes,low,yes,no,high,real-time,business,Python
+75550,19,structured,ml,advanced,no,low,no,yes,medium,weekly,business,Python
+113182,148,structured,reporting,intermediate,yes,low,yes,yes,low,weekly,business,Tableau
+713871,93,unstructured,reporting,advanced,yes,high,no,no,high,static,analyst,Tableau
+688494,78,semi,reporting,beginner,no,high,no,yes,low,real-time,student,Tableau
+986461,154,semi,reporting,intermediate,no,high,no,yes,low,real-time,business,Tableau
+52715,183,semi,dashboard,advanced,yes,high,yes,yes,medium,real-time,business,Power BI
+635825,46,semi,ml,advanced,no,high,yes,yes,medium,real-time,student,Tableau
+726213,84,unstructured,analytics,advanced,yes,low,yes,yes,high,static,student,Tableau
+186063,28,semi,ml,advanced,yes,high,yes,yes,high,real-time,business,Tableau
+813180,60,semi,dashboard,intermediate,no,high,no,no,low,weekly,business,Tableau
+7468,183,semi,dashboard,advanced,no,high,no,yes,medium,static,analyst,Tableau
+705647,51,semi,ml,beginner,yes,high,yes,yes,high,real-time,analyst,Tableau
+474019,192,structured,ml,advanced,no,high,no,yes,medium,static,analyst,Tableau
+626779,167,structured,dashboard,beginner,no,low,yes,no,low,real-time,student,Tableau
+706470,114,structured,ml,intermediate,yes,high,no,yes,medium,weekly,student,Tableau
+486288,6,semi,ml,intermediate,no,low,no,no,low,real-time,analyst,Python
+615881,157,structured,reporting,intermediate,yes,medium,yes,yes,medium,weekly,analyst,Tableau
+144557,131,semi,reporting,advanced,no,low,no,yes,high,weekly,student,Tableau
+441293,40,structured,ml,intermediate,no,high,no,no,low,real-time,analyst,Tableau
+261537,14,unstructured,reporting,advanced,no,low,no,no,medium,weekly,business,Python
+172870,104,structured,ml,beginner,no,high,no,no,medium,real-time,business,Tableau
+972003,120,structured,reporting,advanced,yes,low,no,no,high,weekly,analyst,Tableau
+954356,167,structured,dashboard,advanced,yes,low,no,yes,low,static,student,Tableau
+475669,55,structured,ml,intermediate,yes,low,no,no,high,static,student,Python
+879259,75,structured,analytics,beginner,yes,medium,yes,no,low,static,student,Tableau
+413054,107,semi,dashboard,beginner,no,low,yes,no,low,static,business,Tableau
+622529,5,structured,dashboard,intermediate,no,high,yes,no,medium,real-time,student,Tableau
+485654,78,structured,analytics,intermediate,yes,high,yes,no,medium,real-time,student,Tableau
+792755,187,semi,reporting,beginner,no,medium,no,yes,medium,weekly,business,Tableau
+696182,181,structured,ml,beginner,yes,low,yes,no,medium,weekly,analyst,Tableau
+574775,80,unstructured,ml,beginner,yes,low,yes,yes,high,weekly,student,Python
+426309,182,semi,reporting,intermediate,no,high,yes,no,low,static,business,Tableau
+774713,84,unstructured,analytics,advanced,no,high,no,no,medium,real-time,student,Tableau
+128445,92,semi,analytics,beginner,yes,high,no,no,low,real-time,analyst,Tableau
+129296,112,structured,analytics,advanced,yes,high,no,yes,medium,real-time,student,Tableau
+616946,188,structured,dashboard,beginner,yes,high,yes,no,high,real-time,analyst,Tableau
+772509,86,structured,ml,beginner,no,high,no,no,medium,weekly,analyst,Tableau
+444588,153,structured,ml,advanced,no,high,no,no,high,real-time,analyst,Tableau
+383841,14,unstructured,analytics,beginner,no,medium,yes,yes,medium,real-time,business,Tableau
+853009,96,unstructured,ml,intermediate,yes,medium,yes,no,high,real-time,analyst,Python
+268164,107,semi,analytics,beginner,no,low,no,no,low,static,student,Tableau
+27721,28,unstructured,reporting,advanced,yes,low,yes,yes,low,weekly,business,Power BI
+109519,50,semi,analytics,advanced,no,high,no,no,low,static,analyst,Tableau
+112015,120,unstructured,dashboard,beginner,yes,high,yes,yes,high,static,analyst,Tableau
+310862,152,unstructured,dashboard,intermediate,no,high,no,yes,low,static,analyst,Tableau
+648607,125,unstructured,analytics,intermediate,no,medium,yes,no,medium,static,analyst,Tableau
+430234,97,semi,reporting,advanced,no,medium,yes,no,high,real-time,student,Tableau
+645472,48,semi,ml,intermediate,yes,low,no,yes,medium,real-time,analyst,Power BI
+850942,134,unstructured,analytics,intermediate,yes,low,no,yes,medium,static,analyst,Tableau
+329002,75,semi,ml,intermediate,yes,low,yes,yes,low,real-time,business,Power BI
+355378,86,semi,reporting,advanced,no,low,yes,no,low,static,analyst,Tableau
+347190,49,structured,analytics,advanced,yes,low,no,yes,low,static,business,Tableau
+192785,51,semi,dashboard,advanced,no,high,yes,no,low,weekly,business,Tableau
+875103,73,structured,analytics,beginner,no,medium,yes,yes,high,weekly,business,Tableau
+219367,149,structured,dashboard,advanced,yes,medium,no,yes,medium,static,analyst,Tableau
+945623,173,semi,analytics,beginner,yes,high,yes,no,medium,weekly,business,Tableau
+863086,23,structured,ml,beginner,no,medium,no,yes,medium,static,student,Excel
+17710,122,semi,dashboard,intermediate,no,medium,no,no,high,weekly,business,Power BI
+261865,56,structured,ml,advanced,yes,high,yes,no,high,static,business,Tableau
+371265,186,semi,analytics,beginner,no,high,yes,yes,medium,real-time,analyst,Tableau
+953559,177,semi,reporting,beginner,yes,low,no,no,high,static,business,Tableau
+296582,121,semi,analytics,intermediate,yes,medium,no,no,medium,static,student,Tableau
+885233,139,unstructured,analytics,beginner,yes,medium,yes,no,medium,real-time,business,Tableau
+948428,178,semi,dashboard,beginner,no,medium,yes,no,medium,static,student,Tableau
+680218,95,structured,reporting,advanced,no,high,no,yes,high,weekly,analyst,Tableau
+558284,60,unstructured,reporting,intermediate,no,high,no,yes,high,static,student,Tableau
+13471,155,unstructured,analytics,intermediate,no,high,no,yes,medium,static,analyst,Tableau
+66323,49,structured,dashboard,advanced,no,medium,no,no,low,weekly,student,Power BI
+588917,129,structured,analytics,advanced,yes,low,no,no,medium,static,analyst,Tableau
+807314,102,unstructured,ml,beginner,yes,high,yes,yes,high,weekly,business,Tableau
+602043,84,semi,analytics,advanced,no,high,no,no,medium,real-time,analyst,Tableau
+627657,200,structured,dashboard,intermediate,no,low,yes,yes,low,weekly,analyst,Tableau
+612588,197,structured,ml,advanced,no,high,no,yes,medium,weekly,student,Tableau
+529110,114,semi,analytics,beginner,yes,high,no,no,medium,weekly,analyst,Tableau
+504048,79,structured,dashboard,intermediate,no,high,no,no,high,real-time,student,Tableau
+248495,19,semi,ml,advanced,no,low,no,no,low,static,analyst,Python
+949759,181,unstructured,analytics,beginner,yes,medium,yes,yes,high,real-time,business,Tableau
+443961,161,structured,ml,advanced,no,high,no,no,low,weekly,student,Tableau
+513143,184,semi,reporting,advanced,no,medium,no,no,low,real-time,analyst,Tableau
+773075,127,structured,reporting,beginner,no,low,yes,yes,high,weekly,analyst,Tableau
+464506,54,semi,analytics,intermediate,no,high,yes,no,low,weekly,business,Tableau
+929755,144,semi,ml,intermediate,no,high,yes,no,medium,real-time,analyst,Tableau
+517673,127,structured,ml,advanced,no,low,no,no,medium,weekly,student,Tableau
+825088,67,semi,reporting,intermediate,no,medium,yes,yes,low,weekly,business,Power BI
+1227,49,unstructured,analytics,beginner,no,medium,no,yes,high,static,student,Tableau
+271637,160,semi,reporting,intermediate,no,high,yes,no,high,static,business,Tableau
+625997,124,structured,dashboard,beginner,no,medium,yes,yes,high,static,student,Tableau
+796788,5,unstructured,analytics,intermediate,no,high,yes,no,medium,real-time,business,Tableau
+115162,94,semi,analytics,intermediate,yes,medium,yes,yes,medium,weekly,student,Tableau
+148969,116,structured,reporting,intermediate,no,low,yes,yes,high,static,analyst,Tableau
+598454,28,semi,analytics,advanced,no,medium,yes,yes,high,real-time,business,Tableau
+211675,103,structured,reporting,intermediate,yes,medium,no,yes,high,static,business,Tableau
+595666,126,unstructured,dashboard,advanced,yes,high,no,yes,medium,real-time,analyst,Tableau
+878535,173,unstructured,ml,advanced,yes,medium,yes,no,high,real-time,analyst,Python
+441928,100,unstructured,ml,intermediate,yes,low,no,no,medium,real-time,analyst,Python
+650099,25,semi,ml,beginner,yes,medium,no,no,medium,static,student,Tableau
+859945,130,structured,dashboard,beginner,no,medium,no,yes,low,weekly,analyst,Tableau
+987887,155,structured,analytics,intermediate,no,medium,yes,no,medium,weekly,analyst,Tableau
+803033,20,semi,reporting,beginner,no,medium,yes,no,high,real-time,analyst,Tableau
+103278,104,unstructured,ml,advanced,yes,low,no,yes,medium,static,analyst,Python
+667573,50,semi,dashboard,advanced,yes,high,yes,no,high,real-time,business,Tableau
+632759,30,unstructured,reporting,intermediate,yes,high,yes,yes,medium,static,analyst,Tableau
+782788,22,structured,ml,beginner,no,low,no,yes,medium,real-time,student,Excel
+150361,197,unstructured,analytics,intermediate,yes,low,yes,no,high,real-time,analyst,Tableau
+67926,152,structured,ml,beginner,yes,low,no,yes,low,static,analyst,Python
+71614,75,semi,reporting,intermediate,no,high,yes,no,low,weekly,student,Power BI
+302788,90,structured,dashboard,advanced,yes,high,no,yes,medium,static,business,Tableau
+558170,87,structured,dashboard,advanced,yes,low,yes,yes,medium,static,student,Tableau
+37637,39,semi,ml,intermediate,no,low,yes,no,medium,weekly,analyst,Power BI
+829932,145,unstructured,analytics,intermediate,yes,medium,yes,yes,low,real-time,student,Tableau
+300431,17,semi,analytics,beginner,yes,medium,yes,yes,high,static,student,Tableau
+256822,125,unstructured,analytics,beginner,no,medium,yes,no,low,weekly,student,Tableau
+373288,111,unstructured,dashboard,beginner,no,high,yes,no,high,weekly,business,Tableau
+367020,77,unstructured,dashboard,advanced,no,low,yes,yes,high,real-time,analyst,Tableau
+467599,10,structured,reporting,advanced,no,medium,yes,yes,low,weekly,analyst,Tableau
+144273,121,unstructured,reporting,advanced,no,low,no,no,low,weekly,analyst,Tableau
+178931,66,structured,reporting,intermediate,yes,low,yes,no,medium,weekly,analyst,Tableau
+58718,8,unstructured,reporting,intermediate,no,medium,no,no,low,real-time,analyst,Power BI
+802295,50,structured,dashboard,intermediate,yes,high,yes,no,high,static,student,Tableau
+375880,83,unstructured,ml,advanced,yes,low,yes,yes,high,weekly,analyst,Python
+38189,126,semi,ml,intermediate,no,low,yes,no,medium,static,business,Power BI
+484693,134,structured,dashboard,advanced,yes,low,no,yes,low,weekly,business,Tableau
+925896,37,unstructured,ml,beginner,no,low,yes,yes,high,weekly,analyst,Python
+450707,53,semi,analytics,intermediate,yes,high,no,no,medium,static,business,Tableau
+62401,120,semi,reporting,intermediate,no,low,no,no,low,real-time,analyst,Power BI
+487871,124,semi,analytics,intermediate,yes,high,yes,no,medium,static,analyst,Tableau
+384140,28,semi,reporting,advanced,yes,low,yes,yes,medium,weekly,business,Tableau
+113781,186,semi,dashboard,advanced,no,low,no,no,high,static,student,Tableau
+702876,133,unstructured,dashboard,advanced,no,high,no,no,low,real-time,student,Tableau
+722253,79,structured,ml,advanced,no,medium,yes,yes,high,weekly,business,Tableau
+117335,200,structured,ml,intermediate,yes,medium,no,yes,medium,static,business,Tableau
+389315,114,unstructured,dashboard,advanced,yes,medium,no,no,medium,static,business,Tableau
+232506,54,semi,reporting,intermediate,yes,medium,no,no,high,static,business,Power BI
+173733,144,semi,ml,advanced,no,high,no,yes,low,weekly,analyst,Tableau
+909420,178,semi,ml,advanced,no,high,yes,yes,low,static,business,Tableau
+699463,159,unstructured,reporting,advanced,no,medium,yes,yes,high,weekly,student,Tableau
+885609,188,structured,dashboard,intermediate,no,low,no,yes,high,static,student,Tableau
+609099,166,semi,dashboard,advanced,no,high,no,yes,medium,weekly,analyst,Tableau
+732071,128,unstructured,reporting,intermediate,yes,high,no,no,medium,static,student,Tableau
+862108,60,semi,reporting,advanced,yes,low,yes,no,medium,static,business,Power BI
+293662,67,structured,reporting,advanced,yes,medium,yes,yes,high,static,student,Tableau
+105799,122,structured,analytics,beginner,no,medium,no,yes,medium,real-time,analyst,Tableau
+115790,65,semi,dashboard,advanced,no,medium,no,no,high,real-time,analyst,Tableau
+98664,5,semi,reporting,beginner,no,low,yes,no,low,weekly,analyst,Excel
+862328,131,structured,reporting,beginner,yes,high,no,yes,high,static,business,Tableau
+654054,150,unstructured,ml,intermediate,no,medium,no,no,high,weekly,student,Python
+568596,36,semi,ml,beginner,no,high,yes,no,low,weekly,business,Tableau
+653174,95,semi,dashboard,advanced,yes,medium,no,no,low,real-time,student,Power BI
+13086,80,semi,reporting,intermediate,yes,low,yes,no,high,static,business,Power BI
+156378,84,semi,reporting,intermediate,no,high,no,no,high,real-time,analyst,Tableau
+961571,161,structured,analytics,intermediate,no,medium,no,yes,low,weekly,business,Tableau
+583788,95,semi,ml,beginner,no,low,yes,yes,medium,weekly,student,Tableau
+111388,18,semi,ml,intermediate,yes,low,yes,yes,medium,weekly,student,Tableau
+844500,28,structured,ml,beginner,yes,low,no,yes,high,real-time,analyst,Tableau
+448340,16,unstructured,analytics,beginner,yes,high,no,no,medium,real-time,business,Tableau
+776222,152,semi,analytics,intermediate,yes,medium,no,no,high,static,student,Tableau
+614639,141,unstructured,ml,advanced,no,low,yes,yes,low,real-time,business,Python
+142899,92,semi,dashboard,intermediate,yes,medium,no,yes,high,static,student,Tableau
+16734,145,structured,reporting,advanced,yes,low,yes,yes,low,static,student,Tableau
+363172,103,unstructured,dashboard,beginner,no,high,yes,no,high,static,student,Tableau
+765647,115,structured,analytics,intermediate,no,low,yes,yes,high,static,business,Tableau
+692388,101,semi,analytics,intermediate,yes,medium,no,yes,medium,weekly,business,Tableau
+466567,157,structured,dashboard,advanced,no,low,no,no,low,real-time,business,Tableau
+577082,175,structured,ml,intermediate,no,high,no,no,high,real-time,student,Tableau
+983629,127,structured,analytics,beginner,yes,high,yes,yes,high,static,analyst,Tableau
+360454,18,semi,analytics,beginner,yes,medium,yes,yes,medium,static,analyst,Tableau
+787602,121,unstructured,reporting,advanced,yes,high,yes,yes,medium,static,student,Tableau
+519852,13,structured,ml,beginner,yes,high,no,yes,medium,static,business,Tableau
+477377,86,structured,reporting,beginner,no,low,yes,yes,high,weekly,analyst,Tableau
+477699,34,semi,ml,intermediate,yes,high,yes,no,high,static,business,Tableau
+921319,78,structured,dashboard,intermediate,no,medium,yes,no,low,static,business,Power BI
+356908,9,unstructured,ml,advanced,yes,medium,yes,no,high,weekly,business,Python
+52024,87,unstructured,reporting,beginner,yes,high,yes,yes,low,weekly,student,Power BI
+579198,76,unstructured,analytics,beginner,no,high,no,yes,low,real-time,analyst,Tableau
+911100,194,unstructured,analytics,advanced,no,low,no,no,high,static,student,Tableau
+440821,49,unstructured,dashboard,advanced,yes,high,no,yes,high,static,student,Tableau
+508702,43,unstructured,analytics,advanced,yes,medium,yes,yes,high,weekly,student,Tableau
+850318,144,semi,analytics,beginner,yes,low,no,no,low,weekly,student,Tableau
+867690,140,semi,analytics,intermediate,no,medium,no,yes,medium,weekly,analyst,Tableau
+844950,192,semi,ml,intermediate,yes,high,yes,no,high,static,analyst,Tableau
+672054,95,semi,analytics,advanced,no,medium,no,no,low,weekly,analyst,Tableau
+779875,111,semi,analytics,advanced,yes,high,yes,no,low,static,business,Tableau
+102972,30,semi,analytics,intermediate,no,medium,no,yes,low,static,analyst,Tableau
+78440,199,semi,dashboard,intermediate,yes,medium,no,no,medium,weekly,analyst,Power BI
+476934,128,unstructured,analytics,beginner,no,medium,no,no,high,static,analyst,Tableau
+535105,149,structured,ml,intermediate,no,low,no,yes,high,real-time,student,Tableau
+799123,89,semi,ml,beginner,yes,high,yes,no,high,weekly,analyst,Tableau
+630406,109,semi,ml,intermediate,yes,medium,yes,yes,high,weekly,student,Tableau
+970089,39,semi,dashboard,intermediate,yes,low,yes,no,medium,weekly,business,Power BI
+932390,167,structured,reporting,intermediate,yes,medium,no,no,medium,static,student,Tableau
+742142,113,unstructured,reporting,advanced,yes,medium,yes,yes,low,static,analyst,Tableau
+414958,179,unstructured,dashboard,advanced,yes,medium,yes,no,low,weekly,analyst,Tableau
+256809,197,semi,analytics,intermediate,no,medium,yes,yes,medium,real-time,business,Tableau
+551803,126,semi,reporting,intermediate,yes,high,no,no,high,weekly,student,Tableau
+611970,17,semi,ml,intermediate,yes,low,no,yes,high,real-time,student,Tableau
+38464,58,structured,reporting,advanced,yes,medium,no,yes,low,static,analyst,Power BI
+203785,10,semi,reporting,advanced,no,medium,yes,yes,low,weekly,analyst,Tableau
+33649,164,structured,analytics,beginner,yes,high,yes,yes,low,weekly,business,Tableau
+3597,54,structured,analytics,advanced,yes,medium,no,yes,low,weekly,business,Tableau
+290511,72,structured,ml,intermediate,yes,medium,yes,yes,high,weekly,business,Tableau
+854296,125,semi,reporting,beginner,yes,high,no,no,medium,static,analyst,Tableau
+608631,54,structured,ml,beginner,yes,low,no,no,high,real-time,student,Python
+102317,139,unstructured,reporting,beginner,yes,low,yes,no,low,static,student,Excel
+684109,130,structured,analytics,beginner,no,high,no,yes,high,weekly,analyst,Tableau
+755080,173,unstructured,dashboard,intermediate,no,high,yes,no,medium,weekly,student,Tableau
+238205,132,structured,reporting,advanced,yes,low,yes,yes,medium,real-time,student,Tableau
+686875,125,unstructured,analytics,advanced,yes,low,yes,no,high,weekly,student,Tableau
+430048,126,unstructured,dashboard,beginner,no,low,yes,yes,medium,weekly,business,Tableau
+8731,29,structured,reporting,intermediate,no,medium,yes,yes,low,weekly,business,Power BI
+395665,146,semi,ml,beginner,yes,medium,no,yes,medium,weekly,analyst,Tableau
+78539,180,unstructured,dashboard,intermediate,yes,high,yes,yes,low,weekly,student,Tableau
+496476,168,semi,dashboard,beginner,no,medium,no,yes,high,real-time,business,Tableau
+390725,154,semi,reporting,intermediate,no,medium,yes,yes,high,static,business,Tableau
+329374,43,structured,reporting,advanced,no,high,no,yes,medium,real-time,analyst,Tableau
+361183,190,semi,dashboard,advanced,no,low,no,yes,high,real-time,analyst,Tableau
+811388,24,structured,analytics,advanced,yes,medium,yes,no,medium,real-time,analyst,Tableau
+680415,64,unstructured,ml,intermediate,yes,high,yes,yes,medium,weekly,student,Tableau
+143891,62,unstructured,analytics,beginner,no,high,no,yes,low,static,student,Tableau
+584172,92,semi,reporting,advanced,no,high,yes,no,low,real-time,student,Tableau
+87940,10,structured,dashboard,intermediate,no,low,no,yes,high,real-time,business,Power BI
+152110,144,structured,reporting,advanced,yes,high,yes,yes,high,real-time,business,Tableau
+222700,36,structured,reporting,intermediate,no,high,yes,no,medium,real-time,analyst,Tableau
+597070,117,structured,ml,beginner,no,medium,no,yes,low,real-time,student,Tableau
+490131,96,structured,ml,advanced,no,low,no,yes,medium,real-time,business,Python
+122384,54,semi,reporting,advanced,no,low,yes,no,high,weekly,student,Tableau
+165952,62,unstructured,ml,beginner,yes,low,no,no,low,weekly,student,Python
+568932,183,unstructured,reporting,intermediate,no,low,yes,no,high,weekly,business,Tableau
+338223,126,semi,dashboard,advanced,no,low,no,no,medium,real-time,business,Tableau
+36044,79,semi,analytics,intermediate,no,medium,yes,yes,high,real-time,analyst,Power BI
+142457,144,structured,dashboard,beginner,no,high,no,no,low,static,business,Tableau

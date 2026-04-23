@@ -1,0 +1,1001 @@
+domain,data_type,rows,columns,purpose,user,interactive,best_tool
+Finance,Categorical,999034,7,Composition,Analyst,No,Power BI
+Sales,Numerical,347099,9,Distribution,Manager,No,Power BI
+Healthcare,Categorical,39335,15,Composition,Analyst,No,Power BI
+Finance,Numerical,132699,12,Comparison,Analyst,No,Power BI
+Sales,Categorical,476833,9,Comparison,Analyst,No,Power BI
+Social Media,Time-series,520422,6,Composition,Analyst,No,Power BI
+Healthcare,Numerical,377020,6,Trend,Analyst,Yes,Tableau
+Social Media,Time-series,414074,4,Trend,Student,No,Tableau
+Healthcare,Numerical,45799,13,Distribution,Analyst,No,Matplotlib
+Sales,Numerical,88581,11,Comparison,Manager,Yes,Power BI
+Sales,Time-series,488635,9,Relationship,Student,Yes,Power BI
+Education,Mixed,923685,14,Distribution,Student,No,Power BI
+Social Media,Time-series,788535,14,Comparison,Analyst,Yes,Power BI
+Healthcare,Categorical,654168,14,Comparison,Analyst,Yes,Power BI
+Education,Time-series,351202,3,Distribution,Student,Yes,Tableau
+Finance,Categorical,463811,14,Distribution,Analyst,No,Power BI
+Social Media,Mixed,796567,8,Comparison,Manager,Yes,Power BI
+Social Media,Mixed,298731,15,Trend,Manager,Yes,Power BI
+Social Media,Categorical,504116,6,Relationship,Student,Yes,Power BI
+Education,Categorical,397371,2,Composition,Student,No,Power BI
+Social Media,Time-series,920443,4,Relationship,Analyst,Yes,Tableau
+Education,Categorical,476517,13,Composition,Student,Yes,Power BI
+Education,Mixed,170591,6,Comparison,Manager,No,Power BI
+Healthcare,Categorical,607223,3,Comparison,Analyst,Yes,Power BI
+Social Media,Categorical,614009,11,Trend,Student,No,Power BI
+Finance,Numerical,791727,10,Trend,Student,No,Tableau
+Finance,Categorical,914654,5,Composition,Student,Yes,Power BI
+Education,Numerical,730863,7,Relationship,Student,Yes,Power BI
+Sales,Mixed,114203,10,Relationship,Student,Yes,Power BI
+Healthcare,Numerical,985612,2,Comparison,Manager,Yes,Power BI
+Finance,Time-series,731280,11,Distribution,Analyst,Yes,Power BI
+Healthcare,Time-series,966102,9,Trend,Student,Yes,Tableau
+Social Media,Categorical,556871,10,Relationship,Manager,No,Power BI
+Sales,Categorical,9870,12,Distribution,Manager,Yes,Power BI
+Finance,Numerical,946996,1,Comparison,Student,No,Excel
+Finance,Mixed,37298,6,Composition,Student,No,Power BI
+Healthcare,Time-series,962192,1,Distribution,Student,No,Matplotlib
+Finance,Categorical,503365,2,Distribution,Student,No,Excel
+Education,Categorical,168993,3,Composition,Manager,No,Power BI
+Education,Numerical,103846,15,Trend,Manager,Yes,Power BI
+Sales,Categorical,511696,4,Distribution,Analyst,Yes,Tableau
+Finance,Categorical,807447,10,Composition,Student,Yes,Power BI
+Sales,Categorical,476619,13,Comparison,Analyst,Yes,Power BI
+Finance,Time-series,349019,14,Composition,Analyst,Yes,Power BI
+Healthcare,Mixed,930351,7,Composition,Student,No,Power BI
+Education,Mixed,135990,14,Comparison,Student,Yes,Power BI
+Education,Mixed,781073,6,Trend,Analyst,No,Tableau
+Social Media,Time-series,634792,7,Composition,Student,No,Power BI
+Social Media,Categorical,132482,7,Composition,Analyst,Yes,Power BI
+Finance,Mixed,971681,3,Distribution,Student,No,Power BI
+Finance,Numerical,937905,9,Distribution,Analyst,No,Power BI
+Education,Mixed,457478,1,Trend,Student,No,Power BI
+Finance,Mixed,957545,3,Comparison,Student,No,Power BI
+Education,Numerical,72236,1,Distribution,Analyst,No,Matplotlib
+Finance,Time-series,264195,1,Composition,Analyst,Yes,Power BI
+Social Media,Categorical,164574,9,Trend,Student,No,Tableau
+Healthcare,Mixed,155307,3,Trend,Manager,No,Power BI
+Sales,Mixed,581705,12,Composition,Student,Yes,Power BI
+Education,Mixed,178371,13,Comparison,Analyst,Yes,Power BI
+Education,Numerical,400964,10,Composition,Student,Yes,Power BI
+Healthcare,Time-series,248101,12,Trend,Analyst,No,Tableau
+Finance,Time-series,190151,4,Relationship,Manager,Yes,Power BI
+Healthcare,Time-series,476723,8,Relationship,Manager,Yes,Power BI
+Healthcare,Time-series,302173,8,Relationship,Student,Yes,Power BI
+Social Media,Categorical,258038,9,Trend,Analyst,No,Tableau
+Sales,Categorical,27562,15,Relationship,Manager,No,Power BI
+Sales,Numerical,147332,8,Comparison,Manager,Yes,Power BI
+Social Media,Categorical,327865,12,Composition,Student,No,Power BI
+Education,Mixed,981504,5,Trend,Student,No,Tableau
+Healthcare,Mixed,16195,9,Comparison,Analyst,Yes,Power BI
+Education,Time-series,694891,10,Trend,Analyst,Yes,Tableau
+Finance,Mixed,475301,14,Relationship,Manager,No,Power BI
+Healthcare,Numerical,820517,6,Distribution,Student,Yes,Power BI
+Sales,Categorical,530093,7,Composition,Manager,No,Power BI
+Education,Categorical,231292,9,Comparison,Student,No,Power BI
+Finance,Numerical,922547,1,Relationship,Manager,Yes,Power BI
+Sales,Numerical,337342,1,Distribution,Manager,No,Power BI
+Education,Mixed,918239,14,Composition,Analyst,No,Power BI
+Education,Mixed,515966,10,Comparison,Manager,No,Power BI
+Finance,Mixed,987543,11,Comparison,Student,No,Power BI
+Education,Categorical,855899,6,Trend,Student,Yes,Tableau
+Finance,Time-series,202145,8,Comparison,Analyst,No,Tableau
+Education,Numerical,382606,13,Relationship,Manager,Yes,Power BI
+Education,Numerical,36963,7,Distribution,Student,No,Matplotlib
+Healthcare,Mixed,367748,13,Distribution,Analyst,Yes,Power BI
+Sales,Categorical,303731,3,Trend,Student,No,Tableau
+Healthcare,Numerical,329152,10,Relationship,Manager,No,Power BI
+Sales,Mixed,894434,2,Distribution,Student,Yes,Power BI
+Healthcare,Numerical,714422,4,Relationship,Analyst,Yes,Tableau
+Finance,Categorical,926002,1,Comparison,Student,Yes,Power BI
+Finance,Mixed,612080,10,Comparison,Manager,Yes,Power BI
+Social Media,Categorical,842849,9,Trend,Manager,No,Power BI
+Sales,Categorical,552562,14,Composition,Analyst,Yes,Power BI
+Finance,Numerical,163393,6,Relationship,Manager,Yes,Power BI
+Healthcare,Categorical,887249,11,Relationship,Student,Yes,Power BI
+Finance,Mixed,823476,4,Composition,Student,No,Power BI
+Sales,Numerical,32478,15,Composition,Student,No,Power BI
+Sales,Categorical,658209,12,Composition,Analyst,Yes,Power BI
+Healthcare,Numerical,279725,2,Relationship,Analyst,No,Seaborn
+Education,Numerical,604565,14,Comparison,Manager,Yes,Power BI
+Sales,Categorical,554460,2,Distribution,Student,Yes,Power BI
+Social Media,Time-series,312977,3,Composition,Manager,Yes,Power BI
+Finance,Categorical,91301,8,Trend,Analyst,No,Tableau
+Education,Categorical,342150,7,Distribution,Student,No,Power BI
+Sales,Mixed,795294,14,Distribution,Analyst,No,Power BI
+Finance,Categorical,377104,14,Distribution,Student,No,Power BI
+Social Media,Numerical,475281,8,Comparison,Manager,No,Power BI
+Social Media,Numerical,143601,13,Relationship,Manager,Yes,Power BI
+Healthcare,Mixed,697064,3,Comparison,Student,Yes,Power BI
+Social Media,Numerical,70761,1,Relationship,Analyst,No,Seaborn
+Social Media,Numerical,710418,12,Comparison,Student,No,Power BI
+Education,Time-series,963271,5,Trend,Manager,Yes,Tableau
+Social Media,Numerical,795653,13,Relationship,Manager,No,Power BI
+Finance,Time-series,66779,15,Relationship,Manager,Yes,Power BI
+Social Media,Time-series,999967,9,Distribution,Manager,No,Power BI
+Education,Numerical,768312,13,Composition,Student,No,Power BI
+Social Media,Categorical,942509,3,Distribution,Manager,Yes,Power BI
+Education,Numerical,141828,6,Distribution,Analyst,No,Power BI
+Healthcare,Categorical,950415,11,Comparison,Manager,No,Power BI
+Healthcare,Numerical,323358,15,Trend,Student,No,Power BI
+Social Media,Time-series,728541,6,Trend,Analyst,Yes,Tableau
+Sales,Numerical,935832,3,Distribution,Student,No,Matplotlib
+Healthcare,Numerical,5995,11,Comparison,Analyst,No,Power BI
+Social Media,Categorical,389450,9,Relationship,Student,No,Power BI
+Sales,Time-series,894961,1,Distribution,Manager,Yes,Power BI
+Education,Numerical,945950,12,Distribution,Manager,No,Power BI
+Social Media,Mixed,268766,7,Relationship,Student,Yes,Power BI
+Finance,Time-series,846145,9,Composition,Manager,Yes,Power BI
+Healthcare,Categorical,699752,8,Distribution,Manager,Yes,Power BI
+Education,Numerical,455829,7,Distribution,Student,Yes,Power BI
+Sales,Numerical,934202,1,Relationship,Analyst,Yes,Power BI
+Education,Mixed,797720,4,Relationship,Student,No,Power BI
+Sales,Mixed,994116,5,Relationship,Manager,No,Power BI
+Finance,Time-series,237408,15,Composition,Analyst,No,Power BI
+Finance,Categorical,636674,11,Comparison,Manager,Yes,Power BI
+Sales,Numerical,772707,8,Distribution,Manager,No,Power BI
+Social Media,Time-series,174739,10,Relationship,Manager,No,Power BI
+Education,Time-series,799630,5,Distribution,Manager,Yes,Power BI
+Education,Numerical,292979,2,Comparison,Analyst,No,Power BI
+Healthcare,Numerical,336211,7,Comparison,Student,No,Power BI
+Education,Mixed,640454,7,Distribution,Student,No,Power BI
+Sales,Time-series,92088,6,Relationship,Analyst,No,Tableau
+Finance,Time-series,22849,2,Distribution,Analyst,No,Tableau
+Social Media,Categorical,677359,12,Distribution,Student,No,Power BI
+Sales,Time-series,538489,9,Relationship,Manager,No,Power BI
+Healthcare,Categorical,336820,1,Trend,Analyst,Yes,Tableau
+Social Media,Categorical,809121,9,Composition,Analyst,No,Power BI
+Sales,Time-series,973099,1,Distribution,Student,No,Matplotlib
+Sales,Mixed,809017,3,Relationship,Manager,No,Power BI
+Healthcare,Categorical,869440,9,Relationship,Student,Yes,Power BI
+Social Media,Numerical,957437,14,Comparison,Analyst,No,Power BI
+Healthcare,Mixed,79253,11,Comparison,Student,No,Power BI
+Healthcare,Categorical,724359,7,Composition,Analyst,No,Power BI
+Social Media,Mixed,287641,5,Relationship,Analyst,Yes,Power BI
+Social Media,Time-series,535372,9,Distribution,Analyst,Yes,Tableau
+Education,Time-series,506047,3,Comparison,Manager,No,Power BI
+Sales,Mixed,22666,13,Comparison,Student,Yes,Power BI
+Social Media,Numerical,500437,2,Composition,Student,Yes,Power BI
+Education,Mixed,255353,14,Trend,Manager,No,Power BI
+Healthcare,Mixed,266395,4,Relationship,Student,No,Power BI
+Sales,Numerical,184848,5,Comparison,Manager,No,Power BI
+Sales,Categorical,866757,12,Comparison,Manager,No,Power BI
+Healthcare,Numerical,275731,9,Trend,Student,No,Tableau
+Healthcare,Categorical,397982,12,Composition,Analyst,Yes,Power BI
+Social Media,Mixed,205330,14,Trend,Student,No,Power BI
+Finance,Categorical,349135,3,Trend,Manager,Yes,Power BI
+Social Media,Numerical,556578,3,Relationship,Manager,Yes,Power BI
+Sales,Mixed,454104,6,Composition,Student,No,Power BI
+Education,Categorical,665209,11,Trend,Manager,Yes,Power BI
+Education,Mixed,921122,12,Composition,Analyst,Yes,Power BI
+Finance,Numerical,552188,4,Distribution,Manager,No,Power BI
+Healthcare,Time-series,511276,7,Relationship,Student,Yes,Power BI
+Finance,Time-series,806553,1,Relationship,Analyst,Yes,Tableau
+Social Media,Time-series,712344,2,Comparison,Student,Yes,Power BI
+Healthcare,Numerical,505900,15,Distribution,Analyst,Yes,Power BI
+Social Media,Mixed,767545,3,Comparison,Manager,Yes,Power BI
+Education,Numerical,977708,5,Relationship,Student,Yes,Power BI
+Sales,Categorical,899965,11,Comparison,Manager,No,Power BI
+Sales,Mixed,491881,4,Distribution,Manager,Yes,Power BI
+Sales,Numerical,133427,14,Comparison,Student,No,Power BI
+Education,Categorical,721879,4,Composition,Analyst,Yes,Power BI
+Sales,Mixed,57304,5,Trend,Analyst,Yes,Tableau
+Healthcare,Categorical,138762,3,Relationship,Analyst,No,Seaborn
+Social Media,Time-series,5701,2,Comparison,Manager,No,Power BI
+Finance,Numerical,156279,12,Distribution,Manager,No,Power BI
+Education,Categorical,366943,6,Distribution,Analyst,Yes,Power BI
+Sales,Categorical,486364,1,Composition,Student,No,Power BI
+Sales,Time-series,768352,13,Trend,Manager,No,Power BI
+Education,Time-series,446277,14,Trend,Analyst,No,Tableau
+Social Media,Categorical,684487,1,Comparison,Analyst,No,Excel
+Education,Time-series,65446,3,Composition,Analyst,No,Tableau
+Sales,Mixed,370862,10,Relationship,Manager,No,Power BI
+Social Media,Numerical,809048,5,Composition,Analyst,Yes,Power BI
+Healthcare,Time-series,302914,7,Relationship,Student,No,Tableau
+Healthcare,Numerical,827416,14,Relationship,Student,Yes,Power BI
+Education,Time-series,517551,2,Trend,Student,Yes,Tableau
+Social Media,Mixed,972374,12,Comparison,Manager,Yes,Power BI
+Education,Time-series,395426,10,Relationship,Student,Yes,Power BI
+Social Media,Mixed,718465,9,Trend,Manager,Yes,Power BI
+Finance,Categorical,167472,11,Comparison,Analyst,No,Power BI
+Finance,Mixed,546304,7,Trend,Student,Yes,Power BI
+Healthcare,Numerical,258027,10,Distribution,Manager,Yes,Power BI
+Social Media,Categorical,913644,7,Trend,Student,Yes,Tableau
+Social Media,Time-series,302491,11,Trend,Manager,No,Power BI
+Education,Numerical,278287,11,Relationship,Manager,No,Power BI
+Social Media,Time-series,820947,6,Relationship,Manager,Yes,Power BI
+Healthcare,Time-series,658355,15,Composition,Student,Yes,Power BI
+Social Media,Numerical,142129,5,Composition,Manager,No,Power BI
+Social Media,Categorical,353905,2,Relationship,Analyst,No,Seaborn
+Social Media,Numerical,423031,7,Relationship,Manager,Yes,Power BI
+Sales,Numerical,412859,11,Distribution,Analyst,No,Power BI
+Social Media,Time-series,664278,3,Trend,Analyst,Yes,Tableau
+Finance,Time-series,778824,14,Relationship,Analyst,Yes,Power BI
+Finance,Mixed,796355,15,Trend,Student,No,Power BI
+Sales,Time-series,288148,13,Comparison,Manager,Yes,Power BI
+Sales,Numerical,785248,7,Relationship,Analyst,No,Power BI
+Finance,Categorical,575380,13,Composition,Student,No,Power BI
+Sales,Categorical,79481,4,Relationship,Manager,No,Power BI
+Sales,Time-series,718933,13,Distribution,Manager,No,Power BI
+Healthcare,Time-series,481940,15,Trend,Analyst,Yes,Tableau
+Education,Numerical,377338,15,Relationship,Analyst,Yes,Power BI
+Social Media,Numerical,454333,13,Trend,Manager,No,Power BI
+Sales,Categorical,658525,15,Trend,Student,No,Power BI
+Healthcare,Mixed,775917,2,Composition,Analyst,No,Power BI
+Sales,Time-series,369803,3,Composition,Manager,No,Power BI
+Finance,Numerical,128866,9,Composition,Student,Yes,Power BI
+Sales,Mixed,686644,1,Comparison,Manager,No,Power BI
+Healthcare,Categorical,388278,7,Composition,Manager,No,Power BI
+Sales,Mixed,311394,11,Distribution,Analyst,Yes,Power BI
+Healthcare,Mixed,278994,9,Composition,Analyst,Yes,Power BI
+Finance,Categorical,115422,2,Relationship,Student,No,Excel
+Healthcare,Categorical,287669,1,Trend,Analyst,Yes,Tableau
+Social Media,Mixed,565550,9,Distribution,Manager,No,Power BI
+Healthcare,Mixed,982211,12,Trend,Manager,Yes,Power BI
+Healthcare,Time-series,662384,6,Trend,Manager,Yes,Power BI
+Finance,Time-series,426712,5,Comparison,Analyst,No,Tableau
+Finance,Numerical,658465,5,Comparison,Analyst,No,Power BI
+Social Media,Time-series,214073,1,Composition,Student,No,Power BI
+Healthcare,Numerical,277183,5,Composition,Manager,No,Power BI
+Sales,Mixed,927629,6,Composition,Manager,Yes,Power BI
+Social Media,Numerical,737181,9,Trend,Student,Yes,Tableau
+Finance,Time-series,925848,9,Trend,Manager,Yes,Power BI
+Healthcare,Mixed,791910,13,Relationship,Student,Yes,Power BI
+Finance,Time-series,186519,14,Composition,Analyst,No,Power BI
+Education,Time-series,11024,13,Composition,Manager,No,Power BI
+Healthcare,Numerical,667927,12,Distribution,Student,Yes,Power BI
+Healthcare,Numerical,350874,11,Composition,Analyst,No,Power BI
+Finance,Time-series,805658,6,Composition,Student,No,Power BI
+Sales,Mixed,757689,8,Relationship,Manager,Yes,Power BI
+Finance,Time-series,431940,12,Distribution,Manager,Yes,Power BI
+Sales,Categorical,389122,10,Trend,Student,Yes,Tableau
+Healthcare,Categorical,900494,13,Relationship,Student,Yes,Power BI
+Sales,Numerical,867602,2,Trend,Analyst,No,Tableau
+Sales,Time-series,843800,14,Composition,Manager,Yes,Power BI
+Education,Categorical,720406,7,Comparison,Student,No,Power BI
+Sales,Time-series,240672,7,Trend,Student,No,Tableau
+Healthcare,Categorical,202596,9,Trend,Manager,No,Power BI
+Social Media,Numerical,359660,1,Composition,Manager,Yes,Power BI
+Sales,Mixed,777358,7,Comparison,Manager,Yes,Power BI
+Finance,Categorical,22246,13,Composition,Analyst,Yes,Power BI
+Healthcare,Numerical,843399,13,Distribution,Manager,No,Power BI
+Finance,Mixed,54853,7,Composition,Manager,Yes,Power BI
+Sales,Time-series,743858,4,Composition,Analyst,Yes,Power BI
+Education,Categorical,669583,15,Composition,Student,Yes,Power BI
+Healthcare,Categorical,433790,13,Comparison,Manager,No,Power BI
+Education,Time-series,355602,7,Trend,Student,Yes,Tableau
+Education,Numerical,751571,12,Trend,Manager,Yes,Power BI
+Finance,Numerical,288692,6,Trend,Analyst,No,Tableau
+Healthcare,Mixed,788901,13,Composition,Manager,Yes,Power BI
+Finance,Mixed,325179,8,Composition,Student,No,Power BI
+Social Media,Categorical,456379,3,Composition,Analyst,Yes,Power BI
+Sales,Categorical,518946,3,Trend,Student,No,Tableau
+Healthcare,Numerical,870441,9,Comparison,Manager,No,Power BI
+Finance,Numerical,232770,4,Composition,Analyst,No,Power BI
+Social Media,Categorical,577314,13,Relationship,Manager,No,Power BI
+Social Media,Time-series,522674,10,Relationship,Manager,No,Power BI
+Finance,Numerical,323422,5,Comparison,Analyst,No,Power BI
+Finance,Numerical,713727,12,Trend,Manager,Yes,Power BI
+Education,Categorical,566563,9,Comparison,Student,No,Power BI
+Sales,Categorical,575700,3,Relationship,Student,Yes,Power BI
+Education,Time-series,953848,10,Trend,Student,No,Tableau
+Finance,Time-series,77448,11,Trend,Student,No,Tableau
+Healthcare,Numerical,103350,1,Comparison,Analyst,No,Power BI
+Finance,Mixed,482629,6,Trend,Analyst,Yes,Power BI
+Sales,Time-series,544202,9,Relationship,Analyst,No,Tableau
+Sales,Categorical,103206,5,Distribution,Manager,Yes,Power BI
+Finance,Time-series,88710,11,Relationship,Student,Yes,Power BI
+Social Media,Numerical,120596,5,Relationship,Manager,No,Power BI
+Education,Categorical,429684,3,Comparison,Manager,No,Power BI
+Education,Time-series,80643,7,Comparison,Analyst,Yes,Tableau
+Sales,Categorical,163471,5,Trend,Manager,Yes,Power BI
+Social Media,Mixed,482873,7,Distribution,Analyst,Yes,Power BI
+Social Media,Time-series,397127,12,Composition,Student,No,Power BI
+Social Media,Numerical,261614,12,Comparison,Manager,Yes,Power BI
+Finance,Time-series,107277,10,Comparison,Manager,Yes,Power BI
+Education,Categorical,506633,10,Composition,Student,No,Power BI
+Sales,Mixed,657684,2,Trend,Manager,No,Power BI
+Finance,Categorical,364148,15,Distribution,Student,No,Power BI
+Healthcare,Time-series,806893,7,Distribution,Manager,Yes,Power BI
+Social Media,Numerical,716029,14,Relationship,Analyst,No,Seaborn
+Social Media,Categorical,420728,3,Trend,Student,No,Tableau
+Education,Time-series,490540,8,Comparison,Manager,Yes,Power BI
+Healthcare,Categorical,160285,4,Distribution,Analyst,No,Seaborn
+Sales,Numerical,876810,5,Composition,Analyst,No,Power BI
+Social Media,Mixed,424655,15,Composition,Analyst,Yes,Power BI
+Education,Mixed,374602,4,Relationship,Manager,Yes,Power BI
+Healthcare,Mixed,558938,12,Trend,Analyst,Yes,Power BI
+Healthcare,Numerical,869883,4,Distribution,Student,Yes,Power BI
+Finance,Time-series,169159,9,Comparison,Manager,No,Power BI
+Sales,Time-series,836770,3,Relationship,Student,No,Tableau
+Sales,Mixed,793945,15,Relationship,Manager,No,Power BI
+Education,Time-series,986601,12,Comparison,Student,No,Power BI
+Healthcare,Numerical,260001,11,Trend,Student,Yes,Power BI
+Sales,Mixed,179760,2,Composition,Manager,No,Power BI
+Social Media,Numerical,500844,15,Trend,Analyst,Yes,Power BI
+Healthcare,Categorical,331404,7,Composition,Student,Yes,Power BI
+Finance,Time-series,779585,11,Comparison,Analyst,Yes,Power BI
+Social Media,Mixed,300758,5,Distribution,Student,No,Power BI
+Finance,Mixed,118652,11,Composition,Student,Yes,Power BI
+Healthcare,Time-series,694270,15,Composition,Student,Yes,Power BI
+Sales,Time-series,83382,5,Relationship,Student,Yes,Tableau
+Education,Time-series,912763,2,Composition,Student,Yes,Power BI
+Finance,Categorical,180055,11,Composition,Manager,No,Power BI
+Healthcare,Time-series,231057,6,Comparison,Analyst,Yes,Power BI
+Finance,Time-series,275881,4,Relationship,Analyst,No,Tableau
+Finance,Time-series,643479,2,Composition,Analyst,Yes,Power BI
+Finance,Categorical,964850,1,Composition,Manager,Yes,Power BI
+Education,Time-series,812042,3,Composition,Analyst,No,Tableau
+Healthcare,Categorical,209345,7,Relationship,Student,No,Power BI
+Education,Numerical,428811,8,Distribution,Analyst,No,Power BI
+Sales,Numerical,88381,9,Composition,Analyst,Yes,Power BI
+Social Media,Numerical,724377,7,Comparison,Student,Yes,Power BI
+Sales,Mixed,278633,3,Trend,Student,Yes,Power BI
+Finance,Mixed,284650,13,Trend,Analyst,Yes,Power BI
+Sales,Mixed,418376,10,Composition,Manager,Yes,Power BI
+Finance,Numerical,776595,12,Composition,Student,Yes,Power BI
+Healthcare,Time-series,600315,2,Distribution,Manager,No,Power BI
+Sales,Mixed,236310,2,Trend,Manager,Yes,Power BI
+Sales,Time-series,842567,6,Trend,Analyst,Yes,Tableau
+Education,Mixed,693391,4,Distribution,Student,No,Power BI
+Sales,Categorical,368771,4,Distribution,Manager,Yes,Power BI
+Social Media,Categorical,570010,3,Trend,Student,No,Tableau
+Healthcare,Categorical,394858,7,Trend,Manager,Yes,Power BI
+Education,Categorical,593430,10,Composition,Analyst,Yes,Power BI
+Healthcare,Mixed,708467,11,Distribution,Student,Yes,Power BI
+Education,Time-series,16124,6,Distribution,Manager,Yes,Power BI
+Finance,Categorical,642962,12,Trend,Analyst,Yes,Power BI
+Sales,Numerical,799002,12,Relationship,Manager,Yes,Power BI
+Finance,Categorical,792583,6,Comparison,Manager,Yes,Power BI
+Healthcare,Time-series,474138,4,Relationship,Student,Yes,Tableau
+Education,Mixed,472740,14,Composition,Student,Yes,Power BI
+Sales,Mixed,217837,10,Distribution,Analyst,Yes,Power BI
+Finance,Numerical,315520,13,Distribution,Student,No,Power BI
+Healthcare,Categorical,479624,15,Distribution,Student,No,Power BI
+Healthcare,Numerical,265309,7,Trend,Student,No,Tableau
+Sales,Time-series,376328,11,Trend,Student,No,Tableau
+Social Media,Numerical,155573,10,Comparison,Student,Yes,Power BI
+Healthcare,Categorical,380206,10,Composition,Analyst,No,Power BI
+Healthcare,Numerical,291660,15,Trend,Manager,No,Power BI
+Healthcare,Categorical,882646,1,Comparison,Student,No,Excel
+Healthcare,Categorical,305258,15,Comparison,Manager,Yes,Power BI
+Education,Mixed,46745,13,Distribution,Analyst,Yes,Power BI
+Education,Time-series,683426,9,Distribution,Student,No,Tableau
+Healthcare,Numerical,777642,14,Comparison,Analyst,No,Power BI
+Healthcare,Mixed,943535,5,Comparison,Manager,No,Power BI
+Healthcare,Mixed,555261,6,Comparison,Student,Yes,Power BI
+Finance,Mixed,266020,10,Composition,Analyst,Yes,Power BI
+Social Media,Numerical,734318,15,Relationship,Analyst,Yes,Power BI
+Sales,Numerical,426625,2,Comparison,Student,No,Excel
+Social Media,Time-series,520205,14,Distribution,Analyst,Yes,Power BI
+Sales,Time-series,359958,7,Distribution,Student,Yes,Power BI
+Social Media,Mixed,817363,4,Relationship,Manager,Yes,Power BI
+Social Media,Categorical,631429,1,Trend,Analyst,No,Tableau
+Healthcare,Mixed,252518,6,Relationship,Analyst,No,Power BI
+Finance,Mixed,464455,4,Trend,Manager,Yes,Power BI
+Social Media,Categorical,914666,2,Composition,Student,No,Power BI
+Education,Mixed,820978,6,Comparison,Student,Yes,Power BI
+Finance,Categorical,660185,11,Trend,Analyst,No,Tableau
+Education,Numerical,294094,4,Relationship,Student,No,Matplotlib
+Finance,Mixed,768546,7,Relationship,Student,Yes,Power BI
+Education,Categorical,484374,12,Comparison,Analyst,No,Power BI
+Social Media,Mixed,144286,14,Comparison,Manager,Yes,Power BI
+Social Media,Time-series,661435,1,Relationship,Student,No,Seaborn
+Education,Categorical,421590,4,Distribution,Student,No,Excel
+Social Media,Categorical,558086,3,Distribution,Manager,No,Power BI
+Sales,Mixed,90241,3,Distribution,Manager,Yes,Power BI
+Social Media,Mixed,291967,4,Distribution,Student,No,Power BI
+Social Media,Categorical,152619,15,Composition,Manager,Yes,Power BI
+Healthcare,Categorical,976140,12,Distribution,Manager,No,Power BI
+Sales,Numerical,855604,4,Comparison,Manager,Yes,Power BI
+Education,Time-series,131311,10,Composition,Analyst,No,Power BI
+Social Media,Categorical,522848,4,Trend,Manager,Yes,Power BI
+Healthcare,Categorical,259003,13,Trend,Analyst,Yes,Power BI
+Education,Numerical,332755,14,Composition,Student,Yes,Power BI
+Healthcare,Mixed,465448,1,Relationship,Manager,Yes,Power BI
+Sales,Numerical,525359,3,Relationship,Manager,Yes,Power BI
+Healthcare,Mixed,248561,13,Composition,Analyst,No,Power BI
+Sales,Categorical,963511,6,Distribution,Student,No,Power BI
+Healthcare,Categorical,508352,14,Trend,Analyst,Yes,Power BI
+Sales,Numerical,900678,14,Trend,Analyst,Yes,Power BI
+Social Media,Time-series,486874,9,Distribution,Student,Yes,Power BI
+Healthcare,Time-series,709311,13,Comparison,Student,Yes,Power BI
+Social Media,Time-series,40326,14,Trend,Analyst,Yes,Tableau
+Healthcare,Time-series,887157,3,Comparison,Student,No,Excel
+Finance,Numerical,911384,1,Composition,Manager,No,Power BI
+Social Media,Numerical,16575,4,Distribution,Analyst,Yes,Tableau
+Finance,Numerical,410974,5,Relationship,Analyst,Yes,Tableau
+Education,Categorical,209916,10,Composition,Analyst,No,Power BI
+Education,Mixed,507031,10,Composition,Student,No,Power BI
+Healthcare,Categorical,39903,4,Relationship,Student,Yes,Tableau
+Finance,Categorical,981730,11,Relationship,Manager,Yes,Power BI
+Education,Numerical,548637,11,Distribution,Student,Yes,Power BI
+Healthcare,Numerical,546658,3,Composition,Manager,Yes,Power BI
+Sales,Numerical,684423,1,Trend,Analyst,No,Tableau
+Finance,Numerical,218492,5,Comparison,Analyst,No,Power BI
+Social Media,Numerical,277205,15,Relationship,Student,No,Power BI
+Healthcare,Mixed,418091,15,Composition,Analyst,Yes,Power BI
+Education,Categorical,403802,8,Comparison,Student,Yes,Power BI
+Education,Mixed,907482,10,Comparison,Analyst,No,Power BI
+Education,Mixed,804415,6,Composition,Analyst,No,Power BI
+Healthcare,Mixed,382924,3,Comparison,Student,No,Power BI
+Healthcare,Categorical,837402,2,Composition,Student,Yes,Power BI
+Sales,Mixed,146140,6,Distribution,Manager,No,Power BI
+Education,Categorical,412739,2,Relationship,Manager,Yes,Power BI
+Social Media,Categorical,515179,1,Distribution,Manager,No,Power BI
+Education,Mixed,4364,2,Distribution,Manager,No,Power BI
+Social Media,Numerical,60630,5,Comparison,Analyst,No,Tableau
+Healthcare,Numerical,796066,8,Distribution,Student,Yes,Power BI
+Finance,Categorical,748037,3,Composition,Analyst,Yes,Power BI
+Social Media,Numerical,928464,11,Comparison,Analyst,No,Power BI
+Sales,Numerical,702727,13,Distribution,Manager,No,Power BI
+Healthcare,Time-series,196914,7,Trend,Manager,Yes,Power BI
+Social Media,Numerical,330112,15,Relationship,Manager,Yes,Power BI
+Sales,Categorical,618669,3,Composition,Student,No,Power BI
+Healthcare,Numerical,202767,2,Comparison,Student,No,Excel
+Sales,Time-series,739948,6,Trend,Student,Yes,Tableau
+Finance,Mixed,22643,7,Relationship,Manager,Yes,Power BI
+Social Media,Time-series,615072,4,Comparison,Manager,No,Power BI
+Social Media,Time-series,57451,12,Distribution,Student,Yes,Power BI
+Social Media,Categorical,895844,6,Composition,Student,No,Power BI
+Sales,Categorical,734252,8,Comparison,Manager,No,Power BI
+Education,Mixed,158164,4,Relationship,Analyst,Yes,Power BI
+Social Media,Categorical,971021,13,Distribution,Student,Yes,Power BI
+Sales,Numerical,24630,9,Distribution,Analyst,No,Tableau
+Education,Numerical,313150,12,Relationship,Manager,Yes,Power BI
+Healthcare,Numerical,859047,5,Composition,Manager,No,Power BI
+Education,Time-series,773072,1,Trend,Student,No,Tableau
+Sales,Numerical,15475,5,Composition,Manager,Yes,Power BI
+Sales,Numerical,454252,14,Composition,Manager,No,Power BI
+Education,Mixed,110102,14,Distribution,Analyst,No,Power BI
+Finance,Categorical,369093,11,Relationship,Analyst,Yes,Power BI
+Social Media,Categorical,840838,11,Distribution,Student,No,Power BI
+Healthcare,Numerical,321106,6,Distribution,Analyst,Yes,Power BI
+Finance,Time-series,20973,6,Distribution,Analyst,No,Tableau
+Social Media,Time-series,663242,10,Composition,Student,Yes,Power BI
+Finance,Categorical,90546,9,Composition,Student,No,Power BI
+Education,Time-series,742235,10,Distribution,Analyst,No,Tableau
+Healthcare,Categorical,999104,10,Trend,Student,Yes,Tableau
+Healthcare,Categorical,513394,7,Trend,Analyst,No,Tableau
+Sales,Numerical,104949,6,Distribution,Analyst,No,Power BI
+Sales,Numerical,821630,12,Distribution,Student,No,Power BI
+Healthcare,Mixed,586231,4,Trend,Manager,No,Power BI
+Social Media,Mixed,521071,4,Comparison,Analyst,No,Power BI
+Education,Categorical,999542,1,Trend,Analyst,No,Tableau
+Education,Categorical,811572,4,Relationship,Analyst,No,Seaborn
+Healthcare,Categorical,937472,4,Comparison,Analyst,Yes,Power BI
+Healthcare,Time-series,177861,10,Comparison,Student,Yes,Power BI
+Sales,Time-series,67289,14,Relationship,Manager,No,Power BI
+Healthcare,Time-series,343872,14,Comparison,Analyst,Yes,Power BI
+Healthcare,Categorical,503424,11,Trend,Student,No,Power BI
+Social Media,Mixed,993219,12,Comparison,Analyst,No,Power BI
+Finance,Numerical,34508,4,Relationship,Student,No,Tableau
+Sales,Mixed,402416,15,Distribution,Analyst,No,Power BI
+Finance,Time-series,341553,7,Distribution,Analyst,Yes,Tableau
+Education,Mixed,801909,12,Comparison,Manager,Yes,Power BI
+Sales,Categorical,301525,7,Distribution,Student,No,Power BI
+Healthcare,Numerical,188571,11,Distribution,Analyst,No,Power BI
+Healthcare,Numerical,398262,1,Relationship,Analyst,No,Seaborn
+Education,Numerical,740835,15,Relationship,Student,Yes,Power BI
+Finance,Time-series,526348,9,Distribution,Analyst,Yes,Tableau
+Finance,Numerical,287962,6,Trend,Analyst,Yes,Tableau
+Education,Categorical,697396,11,Comparison,Student,No,Power BI
+Social Media,Categorical,606772,7,Composition,Analyst,No,Power BI
+Education,Numerical,441023,1,Composition,Manager,Yes,Power BI
+Education,Mixed,56222,5,Relationship,Manager,Yes,Power BI
+Social Media,Numerical,965421,5,Comparison,Manager,No,Power BI
+Education,Mixed,126255,9,Composition,Analyst,No,Power BI
+Social Media,Mixed,483799,6,Relationship,Student,Yes,Power BI
+Finance,Mixed,969941,11,Composition,Manager,No,Power BI
+Sales,Numerical,1509,4,Trend,Analyst,Yes,Tableau
+Social Media,Mixed,977356,6,Composition,Manager,No,Power BI
+Social Media,Mixed,877683,6,Distribution,Student,Yes,Power BI
+Social Media,Numerical,694851,6,Relationship,Analyst,No,Seaborn
+Sales,Time-series,791205,1,Trend,Analyst,Yes,Tableau
+Education,Categorical,307481,6,Relationship,Analyst,Yes,Power BI
+Education,Mixed,740421,12,Composition,Manager,Yes,Power BI
+Healthcare,Mixed,56716,11,Comparison,Student,No,Power BI
+Finance,Numerical,679134,7,Trend,Analyst,Yes,Tableau
+Social Media,Numerical,928634,13,Comparison,Analyst,Yes,Power BI
+Healthcare,Time-series,179404,1,Distribution,Student,No,Matplotlib
+Sales,Categorical,364948,2,Comparison,Analyst,No,Excel
+Education,Numerical,382302,14,Comparison,Student,No,Power BI
+Healthcare,Time-series,428111,12,Trend,Manager,No,Power BI
+Sales,Time-series,126698,5,Distribution,Analyst,No,Tableau
+Education,Categorical,169170,2,Relationship,Student,No,Excel
+Education,Mixed,941858,7,Distribution,Analyst,Yes,Power BI
+Finance,Numerical,214257,4,Relationship,Manager,Yes,Power BI
+Healthcare,Numerical,845213,4,Distribution,Manager,No,Power BI
+Sales,Mixed,742420,3,Relationship,Analyst,Yes,Power BI
+Education,Mixed,619279,14,Distribution,Student,No,Power BI
+Finance,Mixed,262292,14,Comparison,Student,No,Power BI
+Sales,Mixed,222810,9,Comparison,Manager,No,Power BI
+Social Media,Numerical,716052,7,Trend,Manager,Yes,Power BI
+Social Media,Categorical,647727,6,Composition,Manager,No,Power BI
+Sales,Categorical,644085,4,Distribution,Student,Yes,Power BI
+Healthcare,Time-series,978331,9,Relationship,Student,No,Tableau
+Sales,Mixed,358940,5,Comparison,Analyst,Yes,Power BI
+Sales,Categorical,537258,10,Distribution,Student,Yes,Power BI
+Finance,Numerical,689572,7,Distribution,Student,Yes,Power BI
+Social Media,Time-series,309139,3,Relationship,Manager,No,Power BI
+Education,Mixed,724301,6,Trend,Student,No,Power BI
+Social Media,Time-series,349409,12,Composition,Student,Yes,Power BI
+Healthcare,Categorical,346273,8,Relationship,Student,Yes,Power BI
+Social Media,Mixed,72284,10,Relationship,Analyst,Yes,Power BI
+Education,Numerical,310729,2,Comparison,Manager,No,Power BI
+Social Media,Numerical,983920,4,Distribution,Analyst,Yes,Tableau
+Education,Time-series,727474,14,Comparison,Manager,No,Power BI
+Healthcare,Numerical,8047,14,Trend,Student,Yes,Tableau
+Social Media,Mixed,725604,1,Trend,Manager,No,Power BI
+Education,Time-series,65043,8,Trend,Analyst,No,Tableau
+Social Media,Categorical,531631,6,Composition,Student,Yes,Power BI
+Finance,Categorical,578812,4,Comparison,Analyst,No,Power BI
+Social Media,Time-series,454388,12,Composition,Manager,No,Power BI
+Finance,Time-series,887010,3,Comparison,Manager,No,Power BI
+Finance,Time-series,321876,13,Comparison,Student,No,Power BI
+Finance,Numerical,971076,1,Composition,Student,No,Power BI
+Education,Mixed,451631,5,Composition,Student,No,Power BI
+Social Media,Numerical,66205,10,Distribution,Student,Yes,Power BI
+Social Media,Time-series,95397,4,Trend,Student,No,Tableau
+Sales,Categorical,792931,3,Composition,Analyst,Yes,Power BI
+Sales,Categorical,165117,7,Distribution,Manager,No,Power BI
+Social Media,Numerical,172116,3,Comparison,Analyst,No,Power BI
+Social Media,Mixed,717883,2,Distribution,Manager,No,Power BI
+Social Media,Time-series,672956,2,Trend,Student,Yes,Tableau
+Education,Time-series,816045,3,Distribution,Student,No,Tableau
+Sales,Categorical,570616,4,Trend,Manager,No,Power BI
+Social Media,Mixed,863228,8,Trend,Analyst,Yes,Power BI
+Sales,Categorical,900057,8,Composition,Student,Yes,Power BI
+Education,Time-series,221534,11,Comparison,Student,No,Power BI
+Finance,Mixed,920906,5,Distribution,Analyst,Yes,Power BI
+Social Media,Numerical,865809,4,Relationship,Analyst,Yes,Tableau
+Education,Numerical,909385,11,Distribution,Analyst,Yes,Power BI
+Healthcare,Numerical,469871,14,Comparison,Student,No,Power BI
+Education,Time-series,950136,3,Trend,Manager,No,Tableau
+Finance,Time-series,395901,11,Composition,Student,Yes,Power BI
+Social Media,Mixed,841856,12,Composition,Analyst,Yes,Power BI
+Education,Categorical,624039,12,Composition,Student,No,Power BI
+Healthcare,Numerical,76865,9,Comparison,Analyst,Yes,Power BI
+Social Media,Numerical,227849,7,Relationship,Analyst,No,Seaborn
+Healthcare,Time-series,359303,3,Composition,Analyst,No,Tableau
+Social Media,Categorical,879127,5,Comparison,Student,Yes,Power BI
+Finance,Categorical,896071,13,Relationship,Manager,Yes,Power BI
+Finance,Time-series,939028,7,Trend,Student,Yes,Tableau
+Healthcare,Mixed,618079,8,Composition,Analyst,Yes,Power BI
+Education,Numerical,14730,15,Relationship,Analyst,No,Seaborn
+Healthcare,Mixed,962619,10,Trend,Analyst,Yes,Power BI
+Education,Categorical,1568,2,Comparison,Manager,No,Excel
+Social Media,Categorical,29510,3,Composition,Student,No,Excel
+Education,Categorical,864444,2,Comparison,Manager,No,Power BI
+Social Media,Categorical,162495,12,Comparison,Student,Yes,Power BI
+Healthcare,Numerical,123756,4,Relationship,Analyst,No,Seaborn
+Sales,Mixed,154692,1,Comparison,Student,Yes,Power BI
+Healthcare,Time-series,485677,6,Comparison,Student,No,Power BI
+Social Media,Categorical,415789,1,Trend,Analyst,No,Tableau
+Sales,Numerical,940352,5,Trend,Student,Yes,Tableau
+Finance,Mixed,773731,7,Trend,Analyst,No,Tableau
+Education,Numerical,29391,7,Relationship,Analyst,No,Seaborn
+Education,Categorical,772305,3,Composition,Student,No,Power BI
+Sales,Numerical,694139,6,Relationship,Analyst,Yes,Power BI
+Healthcare,Mixed,482226,2,Distribution,Student,Yes,Power BI
+Social Media,Numerical,555310,10,Distribution,Analyst,Yes,Power BI
+Sales,Mixed,408016,1,Composition,Analyst,No,Power BI
+Social Media,Time-series,580250,2,Distribution,Analyst,Yes,Tableau
+Finance,Numerical,807538,8,Composition,Manager,Yes,Power BI
+Healthcare,Numerical,750994,12,Trend,Student,No,Power BI
+Finance,Numerical,116447,6,Composition,Analyst,Yes,Power BI
+Healthcare,Categorical,399956,2,Distribution,Manager,Yes,Power BI
+Social Media,Mixed,721156,10,Relationship,Manager,No,Power BI
+Sales,Mixed,84749,4,Comparison,Analyst,Yes,Power BI
+Education,Mixed,440384,12,Composition,Student,Yes,Power BI
+Sales,Numerical,537063,6,Distribution,Student,Yes,Power BI
+Finance,Time-series,296008,9,Distribution,Manager,No,Power BI
+Healthcare,Numerical,899219,2,Trend,Manager,Yes,Power BI
+Healthcare,Categorical,435170,15,Relationship,Manager,Yes,Power BI
+Sales,Categorical,196919,8,Comparison,Analyst,No,Power BI
+Finance,Time-series,81266,4,Relationship,Analyst,Yes,Tableau
+Sales,Time-series,358327,8,Relationship,Analyst,No,Tableau
+Education,Categorical,86298,3,Comparison,Manager,Yes,Power BI
+Finance,Mixed,305918,10,Composition,Student,Yes,Power BI
+Finance,Time-series,897578,11,Distribution,Manager,Yes,Power BI
+Healthcare,Mixed,906542,4,Relationship,Manager,Yes,Power BI
+Social Media,Time-series,882572,10,Relationship,Student,No,Tableau
+Social Media,Numerical,395363,10,Trend,Student,No,Tableau
+Education,Numerical,48077,13,Comparison,Student,Yes,Power BI
+Sales,Mixed,674219,2,Trend,Manager,Yes,Power BI
+Finance,Numerical,376054,6,Distribution,Manager,No,Power BI
+Education,Mixed,441820,12,Comparison,Manager,No,Power BI
+Finance,Numerical,857115,4,Composition,Manager,No,Power BI
+Finance,Numerical,781271,2,Trend,Manager,No,Power BI
+Finance,Mixed,375519,4,Distribution,Analyst,No,Power BI
+Social Media,Categorical,333967,8,Distribution,Manager,Yes,Power BI
+Social Media,Time-series,563374,14,Relationship,Student,Yes,Power BI
+Social Media,Mixed,610069,4,Trend,Analyst,Yes,Tableau
+Sales,Numerical,522259,15,Distribution,Manager,No,Power BI
+Healthcare,Numerical,289504,2,Trend,Manager,No,Power BI
+Social Media,Numerical,869526,9,Trend,Analyst,Yes,Tableau
+Education,Numerical,214338,10,Comparison,Analyst,No,Power BI
+Healthcare,Time-series,890617,12,Distribution,Manager,Yes,Power BI
+Social Media,Categorical,796233,10,Relationship,Student,No,Power BI
+Education,Time-series,701157,3,Trend,Student,No,Tableau
+Education,Numerical,325323,2,Trend,Analyst,No,Tableau
+Social Media,Time-series,346822,4,Comparison,Analyst,Yes,Tableau
+Finance,Mixed,543266,10,Trend,Student,No,Power BI
+Finance,Categorical,88644,13,Trend,Analyst,Yes,Tableau
+Healthcare,Mixed,252589,2,Comparison,Manager,Yes,Power BI
+Social Media,Time-series,574604,12,Composition,Student,Yes,Power BI
+Social Media,Categorical,178365,12,Trend,Student,Yes,Power BI
+Sales,Numerical,189453,10,Relationship,Manager,No,Power BI
+Sales,Mixed,131731,3,Trend,Student,No,Tableau
+Healthcare,Mixed,585900,9,Composition,Student,Yes,Power BI
+Healthcare,Categorical,375565,8,Relationship,Analyst,Yes,Power BI
+Finance,Time-series,825363,3,Comparison,Analyst,No,Tableau
+Education,Categorical,361993,10,Relationship,Student,Yes,Power BI
+Social Media,Numerical,680913,5,Comparison,Analyst,Yes,Power BI
+Healthcare,Mixed,684266,12,Comparison,Student,Yes,Power BI
+Finance,Numerical,573183,9,Trend,Analyst,Yes,Tableau
+Finance,Time-series,43941,14,Distribution,Analyst,No,Tableau
+Education,Categorical,305312,3,Relationship,Analyst,No,Seaborn
+Social Media,Numerical,411732,15,Trend,Manager,Yes,Power BI
+Healthcare,Categorical,385350,7,Distribution,Manager,No,Power BI
+Education,Categorical,348119,15,Comparison,Student,No,Power BI
+Finance,Mixed,591770,14,Comparison,Student,No,Power BI
+Finance,Categorical,941698,10,Comparison,Manager,Yes,Power BI
+Finance,Numerical,291034,8,Comparison,Analyst,No,Power BI
+Social Media,Time-series,260027,3,Relationship,Student,No,Tableau
+Education,Mixed,327777,5,Composition,Analyst,No,Power BI
+Education,Mixed,744016,9,Relationship,Manager,No,Power BI
+Healthcare,Numerical,744523,10,Composition,Analyst,No,Power BI
+Social Media,Time-series,248864,9,Trend,Analyst,Yes,Tableau
+Sales,Time-series,835057,9,Trend,Analyst,No,Tableau
+Finance,Categorical,108804,15,Composition,Manager,No,Power BI
+Social Media,Categorical,486945,9,Distribution,Analyst,No,Seaborn
+Social Media,Mixed,709838,13,Trend,Analyst,Yes,Power BI
+Sales,Mixed,701309,8,Composition,Manager,No,Power BI
+Finance,Categorical,208096,8,Composition,Manager,No,Power BI
+Healthcare,Numerical,199561,1,Composition,Manager,No,Power BI
+Finance,Categorical,98516,8,Composition,Analyst,Yes,Power BI
+Finance,Numerical,84063,4,Distribution,Analyst,Yes,Tableau
+Finance,Time-series,70227,1,Relationship,Student,Yes,Tableau
+Social Media,Mixed,644510,1,Relationship,Analyst,No,Seaborn
+Healthcare,Mixed,189175,14,Trend,Analyst,No,Power BI
+Education,Mixed,937610,14,Distribution,Manager,Yes,Power BI
+Education,Time-series,410144,2,Trend,Student,No,Tableau
+Finance,Time-series,624047,9,Trend,Student,Yes,Tableau
+Finance,Mixed,227821,1,Distribution,Student,No,Power BI
+Sales,Time-series,505368,5,Composition,Student,No,Power BI
+Finance,Time-series,440431,6,Distribution,Analyst,No,Tableau
+Healthcare,Mixed,576156,6,Composition,Analyst,Yes,Power BI
+Healthcare,Categorical,918535,13,Trend,Manager,No,Power BI
+Sales,Mixed,129410,12,Distribution,Analyst,No,Power BI
+Sales,Numerical,706229,2,Composition,Student,No,Power BI
+Healthcare,Categorical,34578,15,Comparison,Manager,Yes,Power BI
+Education,Mixed,682850,8,Comparison,Manager,No,Power BI
+Social Media,Categorical,500004,10,Distribution,Student,Yes,Power BI
+Finance,Categorical,419951,2,Composition,Student,Yes,Power BI
+Education,Numerical,402354,11,Relationship,Student,No,Power BI
+Sales,Time-series,262887,9,Composition,Analyst,Yes,Power BI
+Healthcare,Time-series,474503,8,Composition,Analyst,No,Power BI
+Social Media,Categorical,826960,6,Distribution,Student,No,Power BI
+Healthcare,Time-series,644557,10,Comparison,Manager,Yes,Power BI
+Education,Mixed,374380,14,Composition,Analyst,No,Power BI
+Education,Numerical,651522,7,Comparison,Student,No,Power BI
+Sales,Mixed,427108,2,Composition,Student,Yes,Power BI
+Education,Categorical,898164,13,Distribution,Manager,Yes,Power BI
+Sales,Categorical,305261,4,Relationship,Manager,Yes,Power BI
+Healthcare,Categorical,544422,14,Distribution,Student,Yes,Power BI
+Education,Categorical,904414,6,Composition,Analyst,Yes,Power BI
+Sales,Time-series,908700,11,Composition,Student,No,Power BI
+Social Media,Numerical,912453,5,Comparison,Manager,No,Power BI
+Social Media,Categorical,2333,13,Comparison,Student,Yes,Excel
+Healthcare,Categorical,484699,15,Distribution,Analyst,Yes,Power BI
+Education,Numerical,813126,6,Distribution,Student,Yes,Power BI
+Social Media,Mixed,47419,2,Distribution,Student,No,Excel
+Sales,Mixed,165227,2,Comparison,Student,No,Power BI
+Finance,Time-series,551060,5,Trend,Analyst,Yes,Tableau
+Finance,Numerical,542817,3,Comparison,Analyst,Yes,Power BI
+Sales,Time-series,354642,3,Composition,Student,Yes,Power BI
+Sales,Time-series,136358,12,Relationship,Analyst,No,Power BI
+Education,Time-series,425072,7,Distribution,Student,No,Tableau
+Education,Time-series,65870,1,Composition,Analyst,Yes,Tableau
+Social Media,Mixed,39890,5,Relationship,Student,Yes,Power BI
+Education,Mixed,564761,14,Trend,Analyst,Yes,Power BI
+Healthcare,Mixed,919992,14,Trend,Analyst,No,Power BI
+Sales,Mixed,749291,4,Relationship,Analyst,Yes,Power BI
+Education,Numerical,183143,13,Composition,Manager,No,Power BI
+Education,Mixed,92281,4,Comparison,Student,No,Excel
+Sales,Time-series,251795,2,Relationship,Analyst,Yes,Tableau
+Healthcare,Mixed,841901,9,Composition,Manager,No,Power BI
+Social Media,Mixed,868986,10,Comparison,Student,Yes,Power BI
+Sales,Categorical,560362,10,Trend,Analyst,Yes,Tableau
+Healthcare,Categorical,542437,9,Comparison,Analyst,No,Power BI
+Education,Numerical,768344,5,Relationship,Manager,Yes,Power BI
+Education,Mixed,245765,15,Relationship,Student,No,Power BI
+Sales,Mixed,198150,15,Relationship,Student,Yes,Power BI
+Social Media,Mixed,609986,14,Composition,Analyst,No,Power BI
+Sales,Mixed,482602,5,Composition,Analyst,No,Power BI
+Education,Categorical,93208,6,Composition,Student,No,Power BI
+Finance,Categorical,367233,2,Trend,Student,No,Tableau
+Finance,Time-series,715922,11,Distribution,Manager,No,Power BI
+Healthcare,Numerical,893824,5,Composition,Analyst,No,Power BI
+Sales,Time-series,259399,8,Composition,Manager,Yes,Power BI
+Sales,Mixed,161470,3,Composition,Manager,Yes,Power BI
+Education,Time-series,903180,11,Trend,Analyst,No,Tableau
+Social Media,Numerical,669286,13,Trend,Manager,Yes,Power BI
+Education,Mixed,972305,10,Trend,Student,Yes,Power BI
+Sales,Mixed,278861,4,Composition,Manager,No,Power BI
+Sales,Time-series,612315,1,Composition,Analyst,No,Power BI
+Social Media,Numerical,985400,2,Relationship,Analyst,No,Seaborn
+Finance,Categorical,989000,3,Relationship,Student,Yes,Power BI
+Social Media,Categorical,17247,7,Distribution,Analyst,No,Seaborn
+Finance,Categorical,552010,3,Comparison,Analyst,No,Power BI
+Sales,Categorical,649621,8,Relationship,Manager,No,Power BI
+Social Media,Categorical,223567,4,Comparison,Manager,Yes,Power BI
+Healthcare,Mixed,590265,4,Composition,Analyst,No,Power BI
+Social Media,Time-series,966941,8,Comparison,Student,No,Power BI
+Sales,Categorical,229426,11,Comparison,Student,Yes,Power BI
+Education,Categorical,786075,11,Composition,Student,No,Power BI
+Social Media,Categorical,381235,5,Trend,Analyst,No,Tableau
+Education,Time-series,833956,6,Comparison,Manager,No,Power BI
+Social Media,Mixed,777253,6,Relationship,Analyst,Yes,Power BI
+Social Media,Mixed,567234,15,Composition,Analyst,Yes,Power BI
+Social Media,Time-series,343689,9,Trend,Analyst,Yes,Tableau
+Social Media,Time-series,888279,7,Relationship,Manager,No,Power BI
+Social Media,Time-series,670741,7,Composition,Manager,Yes,Power BI
+Finance,Mixed,137313,12,Trend,Manager,No,Power BI
+Education,Mixed,899308,9,Composition,Analyst,No,Power BI
+Social Media,Numerical,562523,11,Relationship,Manager,No,Power BI
+Healthcare,Numerical,232877,8,Distribution,Student,Yes,Power BI
+Finance,Mixed,763771,11,Relationship,Student,No,Power BI
+Finance,Mixed,936040,1,Distribution,Student,Yes,Power BI
+Finance,Numerical,796168,13,Distribution,Manager,Yes,Power BI
+Sales,Categorical,240111,7,Trend,Analyst,Yes,Tableau
+Healthcare,Time-series,298427,4,Relationship,Analyst,No,Tableau
+Finance,Time-series,325154,3,Distribution,Analyst,No,Tableau
+Sales,Categorical,304617,15,Trend,Analyst,Yes,Power BI
+Sales,Mixed,93482,10,Trend,Analyst,No,Tableau
+Healthcare,Categorical,776753,12,Composition,Manager,No,Power BI
+Sales,Numerical,174212,8,Distribution,Manager,Yes,Power BI
+Education,Mixed,489732,8,Comparison,Analyst,Yes,Power BI
+Finance,Categorical,320302,7,Comparison,Manager,No,Power BI
+Finance,Numerical,612534,3,Composition,Analyst,No,Power BI
+Finance,Numerical,622760,5,Trend,Manager,No,Power BI
+Finance,Numerical,51667,7,Comparison,Analyst,Yes,Power BI
+Education,Time-series,186759,7,Comparison,Manager,Yes,Power BI
+Finance,Categorical,133119,7,Distribution,Student,Yes,Power BI
+Finance,Mixed,8151,15,Distribution,Student,No,Power BI
+Finance,Time-series,805951,11,Trend,Manager,Yes,Power BI
+Education,Mixed,615237,13,Distribution,Student,Yes,Power BI
+Education,Categorical,384412,14,Trend,Analyst,Yes,Power BI
+Finance,Mixed,360264,11,Composition,Manager,Yes,Power BI
+Finance,Mixed,185287,3,Trend,Analyst,Yes,Tableau
+Sales,Numerical,618486,4,Comparison,Manager,No,Power BI
+Education,Mixed,915489,2,Distribution,Analyst,Yes,Power BI
+Education,Numerical,50751,15,Composition,Analyst,Yes,Power BI
+Finance,Mixed,827205,10,Comparison,Manager,Yes,Power BI
+Finance,Categorical,550265,6,Composition,Student,No,Power BI
+Healthcare,Categorical,531369,1,Comparison,Student,No,Excel
+Sales,Time-series,916280,13,Trend,Student,Yes,Tableau
+Healthcare,Mixed,804263,9,Distribution,Student,No,Power BI
+Finance,Categorical,711705,13,Composition,Student,No,Power BI
+Social Media,Mixed,651387,8,Relationship,Manager,Yes,Power BI
+Healthcare,Time-series,991058,12,Comparison,Analyst,No,Power BI
+Finance,Numerical,658437,12,Composition,Student,No,Power BI
+Education,Mixed,426518,12,Comparison,Manager,No,Power BI
+Education,Mixed,473285,10,Trend,Student,Yes,Power BI
+Education,Numerical,530683,5,Composition,Student,Yes,Power BI
+Finance,Time-series,131458,6,Comparison,Manager,Yes,Power BI
+Finance,Categorical,718773,14,Relationship,Manager,Yes,Power BI
+Education,Numerical,650611,4,Composition,Manager,No,Power BI
+Sales,Numerical,873362,2,Relationship,Analyst,Yes,Power BI
+Social Media,Numerical,920800,11,Comparison,Analyst,No,Power BI
+Social Media,Categorical,575324,13,Trend,Manager,Yes,Power BI
+Sales,Mixed,200837,9,Composition,Manager,No,Power BI
+Education,Mixed,713005,10,Relationship,Analyst,Yes,Power BI
+Healthcare,Numerical,111775,7,Comparison,Manager,No,Power BI
+Sales,Mixed,354390,14,Distribution,Student,Yes,Power BI
+Education,Mixed,963806,14,Trend,Manager,Yes,Power BI
+Social Media,Categorical,664544,9,Distribution,Analyst,No,Seaborn
+Healthcare,Categorical,531988,4,Comparison,Analyst,No,Excel
+Healthcare,Mixed,988818,10,Composition,Manager,No,Power BI
+Sales,Time-series,270177,9,Distribution,Analyst,No,Tableau
+Finance,Numerical,122629,6,Comparison,Analyst,No,Power BI
+Sales,Categorical,679159,11,Composition,Analyst,Yes,Power BI
+Education,Categorical,302936,12,Comparison,Analyst,Yes,Power BI
+Social Media,Categorical,758707,7,Distribution,Student,No,Power BI
+Sales,Categorical,398362,11,Trend,Analyst,Yes,Power BI
+Healthcare,Time-series,798729,7,Trend,Manager,Yes,Power BI
+Healthcare,Categorical,117750,1,Composition,Manager,No,Power BI
+Sales,Numerical,910411,4,Distribution,Student,No,Matplotlib
+Social Media,Numerical,227070,15,Relationship,Manager,Yes,Power BI
+Healthcare,Numerical,295693,6,Relationship,Student,Yes,Power BI
+Social Media,Categorical,434584,14,Comparison,Student,No,Power BI
+Education,Mixed,732724,10,Comparison,Manager,No,Power BI
+Sales,Numerical,575376,2,Composition,Manager,Yes,Power BI
+Healthcare,Mixed,476504,2,Comparison,Manager,No,Power BI
+Social Media,Numerical,357723,5,Relationship,Student,Yes,Power BI
+Sales,Time-series,962380,3,Trend,Analyst,Yes,Tableau
+Healthcare,Numerical,807412,6,Comparison,Analyst,Yes,Power BI
+Education,Mixed,21488,7,Distribution,Student,Yes,Power BI
+Healthcare,Mixed,754419,5,Comparison,Student,Yes,Power BI
+Finance,Categorical,64434,4,Relationship,Analyst,No,Tableau
+Social Media,Numerical,495873,3,Relationship,Student,No,Seaborn
+Education,Time-series,4142,3,Composition,Student,Yes,Excel
+Healthcare,Mixed,778474,8,Comparison,Student,No,Power BI
+Finance,Numerical,41202,11,Composition,Analyst,No,Power BI
+Finance,Mixed,413791,3,Distribution,Student,Yes,Power BI
+Education,Time-series,269470,2,Comparison,Analyst,Yes,Tableau
+Social Media,Categorical,554335,11,Composition,Student,Yes,Power BI
+Social Media,Numerical,374490,8,Distribution,Analyst,No,Seaborn
+Education,Numerical,457647,13,Trend,Student,Yes,Power BI
+Education,Categorical,724299,15,Relationship,Student,Yes,Power BI
+Healthcare,Time-series,892863,2,Composition,Analyst,No,Power BI
+Finance,Numerical,577579,1,Comparison,Manager,No,Power BI
+Social Media,Numerical,828204,12,Composition,Student,No,Power BI
+Sales,Categorical,704727,15,Composition,Student,No,Power BI
+Social Media,Numerical,65989,12,Distribution,Analyst,No,Seaborn
+Education,Time-series,76600,5,Composition,Student,Yes,Tableau
+Social Media,Mixed,518147,8,Relationship,Analyst,No,Power BI
+Finance,Categorical,107435,3,Relationship,Manager,Yes,Power BI
+Healthcare,Numerical,180143,5,Composition,Analyst,No,Power BI
+Social Media,Numerical,971229,1,Trend,Student,Yes,Tableau
+Social Media,Time-series,362060,3,Trend,Analyst,No,Tableau
+Finance,Time-series,83569,15,Trend,Student,No,Tableau
+Finance,Numerical,208769,4,Comparison,Analyst,Yes,Power BI
+Sales,Categorical,316907,2,Comparison,Analyst,Yes,Power BI
+Sales,Mixed,328801,12,Trend,Student,Yes,Power BI
+Finance,Categorical,492096,3,Composition,Manager,No,Power BI
+Social Media,Mixed,255644,2,Distribution,Analyst,No,Seaborn
+Education,Numerical,826032,10,Trend,Manager,Yes,Power BI
+Sales,Time-series,990553,3,Composition,Manager,No,Power BI
+Social Media,Categorical,261746,14,Comparison,Manager,Yes,Power BI
+Education,Time-series,173905,8,Distribution,Student,No,Tableau
+Social Media,Numerical,247156,12,Composition,Student,Yes,Power BI
+Finance,Categorical,817804,15,Comparison,Analyst,No,Power BI
+Education,Numerical,284690,14,Relationship,Manager,Yes,Power BI
+Finance,Categorical,220091,4,Distribution,Manager,No,Power BI
+Healthcare,Mixed,915396,8,Relationship,Student,No,Power BI
+Education,Mixed,20836,1,Trend,Analyst,No,Tableau
+Social Media,Numerical,198217,2,Relationship,Manager,No,Power BI
+Social Media,Time-series,665542,11,Composition,Analyst,Yes,Power BI
+Education,Time-series,715272,7,Comparison,Analyst,Yes,Power BI
+Healthcare,Numerical,354828,3,Comparison,Student,No,Excel
+Education,Numerical,256366,13,Comparison,Manager,No,Power BI
+Education,Categorical,296718,14,Trend,Analyst,Yes,Power BI
+Education,Numerical,469781,1,Distribution,Analyst,No,Matplotlib
+Education,Mixed,92379,3,Composition,Manager,No,Power BI
+Sales,Numerical,833441,2,Distribution,Manager,Yes,Power BI
+Social Media,Numerical,626317,12,Relationship,Student,No,Power BI
+Finance,Mixed,663376,9,Composition,Analyst,No,Power BI
+Education,Time-series,8355,4,Trend,Analyst,No,Tableau
+Social Media,Mixed,181500,2,Trend,Manager,No,Power BI
+Healthcare,Numerical,212661,12,Trend,Student,No,Power BI
+Finance,Numerical,633471,7,Trend,Student,Yes,Tableau
+Finance,Mixed,534619,6,Distribution,Analyst,No,Power BI
+Finance,Mixed,214887,3,Composition,Student,No,Power BI
+Finance,Time-series,189534,2,Relationship,Student,No,Tableau
+Finance,Time-series,284503,10,Composition,Analyst,Yes,Power BI
+Sales,Time-series,310215,3,Comparison,Analyst,No,Tableau
+Social Media,Time-series,690977,12,Trend,Student,No,Tableau
+Finance,Categorical,843820,14,Relationship,Analyst,Yes,Power BI
+Healthcare,Time-series,784475,4,Trend,Analyst,No,Tableau
+Sales,Time-series,167759,8,Composition,Analyst,No,Power BI
+Healthcare,Categorical,103750,2,Trend,Student,Yes,Tableau
+Social Media,Mixed,487559,9,Relationship,Manager,No,Power BI
+Education,Mixed,265348,4,Composition,Manager,Yes,Power BI
+Social Media,Categorical,550211,14,Comparison,Student,No,Power BI
+Finance,Time-series,732066,6,Distribution,Manager,No,Power BI
+Sales,Time-series,179094,5,Comparison,Student,Yes,Power BI
+Education,Time-series,363720,9,Composition,Student,No,Power BI
+Healthcare,Mixed,609318,13,Comparison,Student,No,Power BI
+Healthcare,Mixed,827831,10,Trend,Student,Yes,Power BI
+Healthcare,Mixed,243979,8,Distribution,Student,No,Power BI
+Sales,Time-series,825047,11,Distribution,Analyst,Yes,Power BI
+Sales,Time-series,687201,1,Distribution,Student,Yes,Tableau
+Healthcare,Numerical,697909,8,Comparison,Student,No,Power BI
+Sales,Numerical,683054,15,Composition,Student,Yes,Power BI
+Social Media,Categorical,1388,1,Distribution,Analyst,Yes,Excel
+Social Media,Time-series,279054,8,Comparison,Manager,No,Power BI
+Social Media,Categorical,677388,5,Distribution,Manager,Yes,Power BI
+Social Media,Numerical,896599,12,Distribution,Student,Yes,Power BI
+Sales,Categorical,753401,12,Relationship,Analyst,No,Power BI
+Social Media,Mixed,913741,1,Composition,Analyst,Yes,Power BI
+Social Media,Numerical,492930,8,Trend,Student,No,Tableau
+Education,Categorical,259188,5,Composition,Manager,Yes,Power BI
+Social Media,Mixed,674076,3,Relationship,Student,Yes,Power BI
+Finance,Numerical,806378,2,Trend,Manager,No,Power BI
+Education,Time-series,255646,15,Trend,Manager,Yes,Power BI
+Social Media,Mixed,427368,10,Relationship,Student,Yes,Power BI
+Social Media,Mixed,306871,4,Comparison,Student,No,Power BI
+Finance,Categorical,765365,9,Distribution,Analyst,Yes,Power BI
+Sales,Time-series,26230,5,Comparison,Manager,No,Power BI
+Education,Time-series,764756,15,Trend,Analyst,No,Tableau
+Healthcare,Mixed,96224,14,Trend,Manager,Yes,Power BI
+Social Media,Categorical,214590,6,Relationship,Manager,Yes,Power BI
+Sales,Numerical,505063,4,Distribution,Analyst,No,Matplotlib
+Healthcare,Numerical,14961,6,Comparison,Manager,Yes,Power BI
+Sales,Time-series,845971,14,Comparison,Student,No,Power BI
+Healthcare,Categorical,343960,2,Distribution,Student,Yes,Power BI
+Sales,Time-series,664817,2,Relationship,Manager,Yes,Power BI
+Social Media,Time-series,582411,11,Relationship,Student,Yes,Power BI
+Sales,Mixed,214349,2,Comparison,Student,Yes,Power BI
+Education,Mixed,301582,1,Comparison,Manager,No,Power BI
+Finance,Time-series,107169,7,Comparison,Manager,No,Power BI
+Sales,Time-series,132921,1,Comparison,Student,No,Excel
+Education,Mixed,708625,10,Relationship,Student,Yes,Power BI
+Sales,Mixed,40269,6,Trend,Manager,No,Power BI
+Finance,Numerical,706994,4,Composition,Analyst,Yes,Power BI
+Social Media,Time-series,811857,8,Composition,Manager,Yes,Power BI
+Education,Mixed,344065,2,Composition,Student,No,Power BI
+Education,Mixed,344654,9,Relationship,Student,No,Power BI
+Social Media,Time-series,439722,6,Composition,Manager,No,Power BI
+Healthcare,Numerical,253493,14,Composition,Analyst,Yes,Power BI
+Education,Numerical,192028,12,Distribution,Manager,No,Power BI
+Social Media,Mixed,8406,12,Distribution,Manager,Yes,Power BI
+Sales,Mixed,58854,5,Relationship,Student,Yes,Power BI
+Healthcare,Mixed,562630,13,Relationship,Analyst,No,Power BI
+Education,Mixed,85188,2,Relationship,Manager,Yes,Power BI
+Education,Mixed,110158,13,Relationship,Analyst,Yes,Power BI
+Education,Time-series,60472,6,Distribution,Student,No,Tableau
+Healthcare,Time-series,743673,9,Trend,Manager,No,Power BI
+Sales,Mixed,598056,14,Trend,Manager,No,Power BI
+Finance,Time-series,874194,11,Composition,Analyst,Yes,Power BI
+Healthcare,Time-series,791892,6,Trend,Manager,No,Power BI
+Social Media,Numerical,697999,11,Trend,Student,No,Power BI
+Finance,Time-series,980136,4,Trend,Student,No,Tableau
+Social Media,Time-series,999916,11,Composition,Analyst,No,Power BI
+Sales,Time-series,511509,10,Composition,Analyst,No,Power BI
+Education,Mixed,370644,4,Distribution,Manager,No,Power BI
+Education,Categorical,381455,3,Distribution,Manager,Yes,Power BI
+Finance,Mixed,923436,10,Comparison,Student,Yes,Power BI
+Sales,Categorical,328672,8,Trend,Student,No,Tableau
+Finance,Mixed,683221,10,Distribution,Analyst,No,Power BI
+Social Media,Categorical,13192,9,Composition,Student,Yes,Power BI
+Sales,Time-series,536531,13,Trend,Student,Yes,Tableau
+Education,Mixed,481513,2,Composition,Student,No,Power BI
+Healthcare,Mixed,314671,11,Trend,Analyst,Yes,Power BI
+Social Media,Time-series,228260,3,Composition,Analyst,Yes,Power BI
+Education,Numerical,984653,7,Composition,Analyst,No,Power BI
+Finance,Categorical,731049,9,Composition,Student,No,Power BI
+Sales,Mixed,713020,15,Distribution,Student,No,Power BI
+Sales,Numerical,984667,2,Trend,Manager,No,Power BI
+Healthcare,Mixed,951764,9,Relationship,Manager,Yes,Power BI
+Finance,Categorical,77999,5,Composition,Manager,Yes,Power BI
+Finance,Categorical,927028,13,Comparison,Analyst,Yes,Power BI
+Social Media,Mixed,298507,5,Comparison,Manager,Yes,Power BI
+Social Media,Categorical,291527,6,Composition,Analyst,No,Power BI
+Finance,Mixed,189509,5,Relationship,Student,Yes,Power BI
+Education,Categorical,638962,3,Relationship,Student,Yes,Power BI
+Social Media,Mixed,751583,3,Trend,Analyst,No,Tableau
+Sales,Mixed,576506,2,Trend,Manager,Yes,Power BI
+Education,Categorical,327489,13,Trend,Student,No,Power BI
+Sales,Categorical,515195,12,Comparison,Student,Yes,Power BI
+Education,Time-series,706095,2,Relationship,Analyst,No,Tableau
+Sales,Numerical,150733,12,Trend,Manager,Yes,Power BI
+Healthcare,Numerical,72274,8,Distribution,Student,Yes,Power BI
+Finance,Categorical,574822,2,Trend,Manager,No,Power BI
+Sales,Mixed,347079,9,Relationship,Analyst,Yes,Power BI
+Education,Numerical,927194,6,Comparison,Manager,No,Power BI
+Healthcare,Mixed,762184,11,Comparison,Analyst,No,Power BI
+Sales,Time-series,837036,9,Relationship,Analyst,No,Tableau
+Education,Time-series,115823,14,Trend,Manager,No,Power BI
+Education,Mixed,795199,5,Relationship,Analyst,No,Power BI
+Education,Categorical,904655,6,Trend,Student,No,Tableau
+Social Media,Time-series,107747,2,Trend,Analyst,No,Tableau
+Social Media,Categorical,358390,9,Comparison,Analyst,No,Power BI
+Finance,Mixed,840431,15,Relationship,Analyst,Yes,Power BI
+Education,Time-series,910507,14,Distribution,Analyst,No,Power BI
+Sales,Numerical,270495,15,Composition,Analyst,No,Power BI
+Sales,Mixed,509166,2,Comparison,Manager,No,Power BI
+Healthcare,Categorical,108174,5,Distribution,Manager,No,Power BI
+Finance,Categorical,2448,9,Composition,Student,Yes,Power BI
+Sales,Numerical,145702,6,Comparison,Student,No,Power BI
+Finance,Categorical,252497,11,Trend,Analyst,No,Tableau
+Sales,Numerical,694557,7,Composition,Manager,Yes,Power BI
+Finance,Time-series,892153,5,Trend,Manager,No,Tableau
+Social Media,Mixed,617932,8,Distribution,Student,Yes,Power BI
+Sales,Time-series,530847,2,Composition,Analyst,No,Power BI
+Sales,Numerical,813173,11,Comparison,Manager,Yes,Power BI
+Social Media,Mixed,204838,10,Trend,Analyst,No,Tableau
+Social Media,Mixed,523896,12,Comparison,Analyst,No,Power BI
